@@ -1,0 +1,1146 @@
+[
+            {
+                "name": "Overworld",
+                "chest_unopened_img": "/images/Items/close.png",
+                "chest_opened_img": "/images/Items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [" "],
+                "children": [
+                
+                                {
+                                    "name": "Afterlife",
+                                    "chest_unopened_img": "/images/Items/close.png",
+                                    "chest_opened_img": "/images/Items/open.png",
+                                    "overlay_background": "#000000",
+                                    "access_rules": [" "],
+                                    "sections": [
+                                    
+                                        {
+                                            "name": "Mangled Wayne - Mangled Wayne",
+                                            "ref": "Mangled Wayne/Mangled Wayne"
+                                        },
+                                    
+                                        {
+                                            "name": "Mangled Wayne - Jar near Mangled Wayne",
+                                            "ref": "Mangled Wayne/Jar near Mangled Wayne"
+                                        },
+                                    
+                                        {
+                                            "name": "Behind Cave Key - TV",
+                                            "ref": "Behind Cave Key/TV"
+                                        },
+                                    
+                                        {
+                                            "name": "Afterlife - Jar under Pool",
+                                            "ref": "Afterlife/Jar under Pool"
+                                        },
+                                    
+                                    ],
+                                    "map_locations": [
+                                        {
+                                            "map": "Overworld",
+                                            "x": 2119,
+                                            "y": 1272,
+                                            "size": 12
+                                        }
+                                    ]
+                                    },
+                                    
+                                {
+                                    "name": "Airship",
+                                    "chest_unopened_img": "/images/Items/close.png",
+                                    "chest_opened_img": "/images/Items/open.png",
+                                    "overlay_background": "#000000",
+                                    "access_rules": [" "],
+                                    "sections": [
+                                    
+                                        {
+                                            "name": "After Shield Facility - Talk to Somsnosa",
+                                            "ref": "After Shield Facility/Talk to Somsnosa"
+                                        },
+                                    
+                                    ],
+                                    "map_locations": [
+                                        {
+                                            "map": "Overworld",
+                                            "x": 1342,
+                                            "y": 946,
+                                            "size": 12
+                                        }
+                                    ]
+                                    },
+                                    
+                                {
+                                    "name": "Arcade 1",
+                                    "chest_unopened_img": "/images/Items/close.png",
+                                    "chest_opened_img": "/images/Items/open.png",
+                                    "overlay_background": "#000000",
+                                    "access_rules": [" "],
+                                    "sections": [
+                                    
+                                        {
+                                            "name": "Key - Key",
+                                            "ref": "Key/Key"
+                                        },
+                                    
+                                        {
+                                            "name": "Coin Dash - Coin Dash",
+                                            "ref": "Coin Dash/Coin Dash"
+                                        },
+                                    
+                                        {
+                                            "name": "Burrito Alcove 1 - Burrito Alcove 1",
+                                            "ref": "Burrito Alcove 1/Burrito Alcove 1"
+                                        },
+                                    
+                                        {
+                                            "name": "Burrito Alcove 2 - Burrito Alcove 2",
+                                            "ref": "Burrito Alcove 2/Burrito Alcove 2"
+                                        },
+                                    
+                                        {
+                                            "name": "Behind Spikes Banana - Behind Spikes Banana",
+                                            "ref": "Behind Spikes Banana/Behind Spikes Banana"
+                                        },
+                                    
+                                        {
+                                            "name": "Pyramid Banana - Pyramid Banana",
+                                            "ref": "Pyramid Banana/Pyramid Banana"
+                                        },
+                                    
+                                        {
+                                            "name": "Moving Platforms - Moving Platforms Muscle Applique",
+                                            "ref": "Moving Platforms/Moving Platforms Muscle Applique"
+                                        },
+                                    
+                                        {
+                                            "name": "Bed Banana - Bed Banana",
+                                            "ref": "Bed Banana/Bed Banana"
+                                        },
+                                    
+                                        {
+                                            "name": "Lonely Medallion - Lonely Medallion",
+                                            "ref": "Lonely Medallion/Lonely Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Alcove Medallion - Alcove Medallion",
+                                            "ref": "Alcove Medallion/Alcove Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Lava Medallion - Lava Medallion",
+                                            "ref": "Lava Medallion/Lava Medallion"
+                                        },
+                                    
+                                    ],
+                                    "map_locations": [
+                                        {
+                                            "map": "Overworld",
+                                            "x": 858,
+                                            "y": 565,
+                                            "size": 12
+                                        }
+                                    ]
+                                    },
+                                    
+                                {
+                                    "name": "Arcade 2",
+                                    "chest_unopened_img": "/images/Items/close.png",
+                                    "chest_opened_img": "/images/Items/open.png",
+                                    "overlay_background": "#000000",
+                                    "access_rules": [" "],
+                                    "sections": [
+                                    
+                                        {
+                                            "name": "Flying Machine Banana - Flying Machine Banana",
+                                            "ref": "Flying Machine Banana/Flying Machine Banana"
+                                        },
+                                    
+                                        {
+                                            "name": "Paper Cup Detour - Paper Cup Detour",
+                                            "ref": "Paper Cup Detour/Paper Cup Detour"
+                                        },
+                                    
+                                        {
+                                            "name": "Peak Muscle Applique - Peak Muscle Applique",
+                                            "ref": "Peak Muscle Applique/Peak Muscle Applique"
+                                        },
+                                    
+                                        {
+                                            "name": "Double Banana 1 - Double Banana 1",
+                                            "ref": "Double Banana 1/Double Banana 1"
+                                        },
+                                    
+                                        {
+                                            "name": "Double Banana 2 - Double Banana 2",
+                                            "ref": "Double Banana 2/Double Banana 2"
+                                        },
+                                    
+                                        {
+                                            "name": "Cave Burrito - Cave Burrito",
+                                            "ref": "Cave Burrito/Cave Burrito"
+                                        },
+                                    
+                                        {
+                                            "name": "Flying Machine Medallion - Flying Machine Medallion",
+                                            "ref": "Flying Machine Medallion/Flying Machine Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Guarded Medallion - Guarded Medallion",
+                                            "ref": "Guarded Medallion/Guarded Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Spinning Medallion - Spinning Medallion",
+                                            "ref": "Spinning Medallion/Spinning Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Hook Medallion - Hook Medallion",
+                                            "ref": "Hook Medallion/Hook Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Flag Medallion - Flag Medallion",
+                                            "ref": "Flag Medallion/Flag Medallion"
+                                        },
+                                    
+                                    ],
+                                    "map_locations": [
+                                        {
+                                            "map": "Overworld",
+                                            "x": 1384,
+                                            "y": 260,
+                                            "size": 12
+                                        }
+                                    ]
+                                    },
+                                    
+                                {
+                                    "name": "Arcade Island",
+                                    "chest_unopened_img": "/images/Items/close.png",
+                                    "chest_opened_img": "/images/Items/open.png",
+                                    "overlay_background": "#000000",
+                                    "access_rules": [" "],
+                                    "sections": [
+                                    
+                                        {
+                                            "name": "Arcade Island - Shielded Key",
+                                            "ref": "Arcade Island/Shielded Key"
+                                        },
+                                    
+                                    ],
+                                    "map_locations": [
+                                        {
+                                            "map": "Overworld",
+                                            "x": 983,
+                                            "y": 392,
+                                            "size": 12
+                                        }
+                                    ]
+                                    },
+                                    
+                                {
+                                    "name": "Drill Castle",
+                                    "chest_unopened_img": "/images/Items/close.png",
+                                    "chest_opened_img": "/images/Items/open.png",
+                                    "overlay_background": "#000000",
+                                    "access_rules": [" "],
+                                    "sections": [
+                                    
+                                        {
+                                            "name": "Ledge Banana - Ledge Banana",
+                                            "ref": "Ledge Banana/Ledge Banana"
+                                        },
+                                    
+                                        {
+                                            "name": "Island Banana - Island Banana",
+                                            "ref": "Island Banana/Island Banana"
+                                        },
+                                    
+                                        {
+                                            "name": "Island Pot - Island Pot",
+                                            "ref": "Island Pot/Island Pot"
+                                        },
+                                    
+                                        {
+                                            "name": "Paradox Cave - Cave Sarcophagus",
+                                            "ref": "Paradox Cave/Cave Sarcophagus"
+                                        },
+                                    
+                                        {
+                                            "name": "Past Paradox Cave - TV",
+                                            "ref": "Past Paradox Cave/TV"
+                                        },
+                                    
+                                        {
+                                            "name": "Drill Castle - Roof Banana",
+                                            "ref": "Drill Castle/Roof Banana"
+                                        },
+                                    
+                                    ],
+                                    "map_locations": [
+                                        {
+                                            "map": "Overworld",
+                                            "x": 788,
+                                            "y": 694,
+                                            "size": 12
+                                        }
+                                    ]
+                                    },
+                                    
+                                {
+                                    "name": "Foglast",
+                                    "chest_unopened_img": "/images/Items/close.png",
+                                    "chest_opened_img": "/images/Items/open.png",
+                                    "overlay_background": "#000000",
+                                    "access_rules": [" "],
+                                    "sections": [
+                                    
+                                        {
+                                            "name": "Far Back - West Sarcophagus",
+                                            "ref": "Far Back/West Sarcophagus"
+                                        },
+                                    
+                                        {
+                                            "name": "Mid-Air Medallion - Mid-Air Medallion",
+                                            "ref": "Mid-Air Medallion/Mid-Air Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Below Curved Path - Underground Sarcophagus",
+                                            "ref": "Below Curved Path/Underground Sarcophagus"
+                                        },
+                                    
+                                        {
+                                            "name": "Entrance Mountain - Shielded Key",
+                                            "ref": "Entrance Mountain/Shielded Key"
+                                        },
+                                    
+                                        {
+                                            "name": "TV - Buy Clicker",
+                                            "ref": "TV/Buy Clicker"
+                                        },
+                                    
+                                        {
+                                            "name": "TV - TV",
+                                            "ref": "TV/TV"
+                                        },
+                                    
+                                        {
+                                            "name": "Bridge Mountain - Shielded Chest",
+                                            "ref": "Bridge Mountain/Shielded Chest"
+                                        },
+                                    
+                                        {
+                                            "name": "Cave Fridge - Cave Fridge",
+                                            "ref": "Cave Fridge/Cave Fridge"
+                                        },
+                                    
+                                        {
+                                            "name": "Above Lair - Roof Sarcophagus",
+                                            "ref": "Above Lair/Roof Sarcophagus"
+                                        },
+                                    
+                                        {
+                                            "name": "Sarcophagus 1 - Sarcophagus 1",
+                                            "ref": "Sarcophagus 1/Sarcophagus 1"
+                                        },
+                                    
+                                        {
+                                            "name": "Sarcophagus 2 - Sarcophagus 2",
+                                            "ref": "Sarcophagus 2/Sarcophagus 2"
+                                        },
+                                    
+                                        {
+                                            "name": "Sarcophagus 3 - Sarcophagus 3",
+                                            "ref": "Sarcophagus 3/Sarcophagus 3"
+                                        },
+                                    
+                                        {
+                                            "name": "Under Lair Medallion - Under Lair Medallion",
+                                            "ref": "Under Lair Medallion/Under Lair Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Talk to Sage - Sage Item 1",
+                                            "ref": "Talk to Sage/Sage Item 1"
+                                        },
+                                    
+                                        {
+                                            "name": "Talk to Sage - Sage Item 2",
+                                            "ref": "Talk to Sage/Sage Item 2"
+                                        },
+                                    
+                                        {
+                                            "name": "Sage Room - Sage Sarcophagus",
+                                            "ref": "Sage Room/Sage Sarcophagus"
+                                        },
+                                    
+                                        {
+                                            "name": "Above Entrance Mountain - Top of Tower Medallion",
+                                            "ref": "Above Entrance Mountain/Top of Tower Medallion"
+                                        },
+                                    
+                                    ],
+                                    "map_locations": [
+                                        {
+                                            "map": "Overworld",
+                                            "x": 1779,
+                                            "y": 21,
+                                            "size": 12
+                                        }
+                                    ]
+                                    },
+                                    
+                                {
+                                    "name": "Hylemxylem",
+                                    "chest_unopened_img": "/images/Items/close.png",
+                                    "chest_opened_img": "/images/Items/open.png",
+                                    "overlay_background": "#000000",
+                                    "access_rules": [" "],
+                                    "sections": [
+                                    
+                                        {
+                                            "name": "Lower Reservoir Key - Lower Reservoir Key",
+                                            "ref": "Lower Reservoir Key/Lower Reservoir Key"
+                                        },
+                                    
+                                        {
+                                            "name": "Lower Reservoir Medallion - Lower Reservoir Medallion",
+                                            "ref": "Lower Reservoir Medallion/Lower Reservoir Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Inside Entrance - Jar",
+                                            "ref": "Inside Entrance/Jar"
+                                        },
+                                    
+                                        {
+                                            "name": "Above Entrance - Fountain Banana",
+                                            "ref": "Above Entrance/Fountain Banana"
+                                        },
+                                    
+                                        {
+                                            "name": "East Island Banana - East Island Banana",
+                                            "ref": "East Island Banana/East Island Banana"
+                                        },
+                                    
+                                        {
+                                            "name": "East Island Chest - East Island Chest",
+                                            "ref": "East Island Chest/East Island Chest"
+                                        },
+                                    
+                                        {
+                                            "name": "Needs a hug - Warpo Medallion",
+                                            "ref": "Needs a hug/Warpo Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Drain Switch Medallion - Drain Switch Medallion",
+                                            "ref": "Drain Switch Medallion/Drain Switch Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Upper Chamber past door - Upper Chamber Banana",
+                                            "ref": "Upper Chamber past door/Upper Chamber Banana"
+                                        },
+                                    
+                                        {
+                                            "name": "Across Upper Reservoir - Across Upper Reservoir Chest",
+                                            "ref": "Across Upper Reservoir/Across Upper Reservoir Chest"
+                                        },
+                                    
+                                        {
+                                            "name": "Drained Upper Reservoir - Drained Upper Reservoir Burrito 1",
+                                            "ref": "Drained Upper Reservoir/Drained Upper Reservoir Burrito 1"
+                                        },
+                                    
+                                        {
+                                            "name": "Drained Upper Reservoir - Drained Upper Reservoir Burrito 2",
+                                            "ref": "Drained Upper Reservoir/Drained Upper Reservoir Burrito 2"
+                                        },
+                                    
+                                        {
+                                            "name": "Drained Upper Reservoir - Drained Upper Reservoir Burrito 3",
+                                            "ref": "Drained Upper Reservoir/Drained Upper Reservoir Burrito 3"
+                                        },
+                                    
+                                        {
+                                            "name": "Chest - Drained Lower Reservoir Chest",
+                                            "ref": "Chest/Drained Lower Reservoir Chest"
+                                        },
+                                    
+                                        {
+                                            "name": "Drained Lower Reservoir Burrito 1 - Drained Lower Reservoir Burrito 1",
+                                            "ref": "Drained Lower Reservoir Burrito 1/Drained Lower Reservoir Burrito 1"
+                                        },
+                                    
+                                        {
+                                            "name": "Drained Lower Reservoir Burrito 2 - Drained Lower Reservoir Burrito 2",
+                                            "ref": "Drained Lower Reservoir Burrito 2/Drained Lower Reservoir Burrito 2"
+                                        },
+                                    
+                                        {
+                                            "name": "Lower Reservoir Hole - Lower Reservoir Hole Pot 1",
+                                            "ref": "Lower Reservoir Hole/Lower Reservoir Hole Pot 1"
+                                        },
+                                    
+                                        {
+                                            "name": "Lower Reservoir Hole - Lower Reservoir Hole Pot 2",
+                                            "ref": "Lower Reservoir Hole/Lower Reservoir Hole Pot 2"
+                                        },
+                                    
+                                        {
+                                            "name": "Lower Reservoir Hole - Lower Reservoir Hole Pot 3",
+                                            "ref": "Lower Reservoir Hole/Lower Reservoir Hole Pot 3"
+                                        },
+                                    
+                                        {
+                                            "name": "Sarcophagus - Lower Reservoir Hole Sarcophagus",
+                                            "ref": "Sarcophagus/Lower Reservoir Hole Sarcophagus"
+                                        },
+                                    
+                                        {
+                                            "name": "Medallion - Lower Reservoir Hole Medallion",
+                                            "ref": "Medallion/Lower Reservoir Hole Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Below Upper Reservoir - Upper Reservoir Hole Key",
+                                            "ref": "Below Upper Reservoir/Upper Reservoir Hole Key"
+                                        },
+                                    
+                                    ],
+                                    "map_locations": [
+                                        {
+                                            "map": "Overworld",
+                                            "x": 1330,
+                                            "y": 1322,
+                                            "size": 12
+                                        }
+                                    ]
+                                    },
+                                    
+                                {
+                                    "name": "Juice Ranch",
+                                    "chest_unopened_img": "/images/Items/close.png",
+                                    "chest_opened_img": "/images/Items/open.png",
+                                    "overlay_background": "#000000",
+                                    "access_rules": [" "],
+                                    "sections": [
+                                    
+                                        {
+                                            "name": "Juice 1 - Juice 1",
+                                            "ref": "Juice 1/Juice 1"
+                                        },
+                                    
+                                        {
+                                            "name": "Juice 2 - Juice 2",
+                                            "ref": "Juice 2/Juice 2"
+                                        },
+                                    
+                                        {
+                                            "name": "Juice 3 - Juice 3",
+                                            "ref": "Juice 3/Juice 3"
+                                        },
+                                    
+                                        {
+                                            "name": "Battle - Battle with Somsnosa",
+                                            "ref": "Battle/Battle with Somsnosa"
+                                        },
+                                    
+                                        {
+                                            "name": "Battle - Fridge",
+                                            "ref": "Battle/Fridge"
+                                        },
+                                    
+                                        {
+                                            "name": "Battle - Somsnosa Joins",
+                                            "ref": "Battle/Somsnosa Joins"
+                                        },
+                                    
+                                        {
+                                            "name": "Inside - TV",
+                                            "ref": "Inside/TV"
+                                        },
+                                    
+                                        {
+                                            "name": "Juice Ranch - Ledge Rancher",
+                                            "ref": "Juice Ranch/Ledge Rancher"
+                                        },
+                                    
+                                    ],
+                                    "map_locations": [
+                                        {
+                                            "map": "Overworld",
+                                            "x": 860,
+                                            "y": 1491,
+                                            "size": 12
+                                        }
+                                    ]
+                                    },
+                                    
+                                {
+                                    "name": "New Muldul",
+                                    "chest_unopened_img": "/images/Items/close.png",
+                                    "chest_opened_img": "/images/Items/open.png",
+                                    "overlay_background": "#000000",
+                                    "access_rules": [" "],
+                                    "sections": [
+                                    
+                                        {
+                                            "name": "General Shop - Shop Ceiling Pot 1",
+                                            "ref": "General Shop/Shop Ceiling Pot 1"
+                                        },
+                                    
+                                        {
+                                            "name": "General Shop - Shop Ceiling Pot 2",
+                                            "ref": "General Shop/Shop Ceiling Pot 2"
+                                        },
+                                    
+                                        {
+                                            "name": "Flag Banana - Flag Banana",
+                                            "ref": "Flag Banana/Flag Banana"
+                                        },
+                                    
+                                        {
+                                            "name": "Pot near Vault - Pot near Vault",
+                                            "ref": "Pot near Vault/Pot near Vault"
+                                        },
+                                    
+                                        {
+                                            "name": "Pot above Vault - Pot above Vault",
+                                            "ref": "Pot above Vault/Pot above Vault"
+                                        },
+                                    
+                                        {
+                                            "name": "Underground Pot - Underground Pot",
+                                            "ref": "Underground Pot/Underground Pot"
+                                        },
+                                    
+                                        {
+                                            "name": "Underground - Juice Trade",
+                                            "ref": "Underground/Juice Trade"
+                                        },
+                                    
+                                        {
+                                            "name": "Glove Shop - Underground Chest",
+                                            "ref": "Glove Shop/Underground Chest"
+                                        },
+                                    
+                                        {
+                                            "name": "Basement - Basement Suitcase",
+                                            "ref": "Basement/Basement Suitcase"
+                                        },
+                                    
+                                        {
+                                            "name": "After Slide - Upper House Chest 1",
+                                            "ref": "After Slide/Upper House Chest 1"
+                                        },
+                                    
+                                        {
+                                            "name": "After Slide - Upper House Chest 2",
+                                            "ref": "After Slide/Upper House Chest 2"
+                                        },
+                                    
+                                        {
+                                            "name": "Upper House - Upper House Medallion",
+                                            "ref": "Upper House/Upper House Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Pongorma - Talk to Pongorma",
+                                            "ref": "Pongorma/Talk to Pongorma"
+                                        },
+                                    
+                                        {
+                                            "name": "Pongorma - Pongorma Joins",
+                                            "ref": "Pongorma/Pongorma Joins"
+                                        },
+                                    
+                                        {
+                                            "name": "Palace - Rescued Blerol 1",
+                                            "ref": "Palace/Rescued Blerol 1"
+                                        },
+                                    
+                                        {
+                                            "name": "Palace - Rescued Blerol 2",
+                                            "ref": "Palace/Rescued Blerol 2"
+                                        },
+                                    
+                                        {
+                                            "name": "Vault Left Chest - Vault Left Chest",
+                                            "ref": "Vault Left Chest/Vault Left Chest"
+                                        },
+                                    
+                                        {
+                                            "name": "Vault Right Chest - Vault Right Chest",
+                                            "ref": "Vault Right Chest/Vault Right Chest"
+                                        },
+                                    
+                                        {
+                                            "name": "Vault Rear Left Medallion - Vault Rear Left Medallion",
+                                            "ref": "Vault Rear Left Medallion/Vault Rear Left Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Vault Rear Right Medallion - Vault Rear Right Medallion",
+                                            "ref": "Vault Rear Right Medallion/Vault Rear Right Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Vault Center Medallion - Vault Center Medallion",
+                                            "ref": "Vault Center Medallion/Vault Center Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Vault Front Left Medallion - Vault Front Left Medallion",
+                                            "ref": "Vault Front Left Medallion/Vault Front Left Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Vault Front Right Medallion - Vault Front Right Medallion",
+                                            "ref": "Vault Front Right Medallion/Vault Front Right Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Vault - Vault Bomb",
+                                            "ref": "Vault/Vault Bomb"
+                                        },
+                                    
+                                        {
+                                            "name": "Behind House Key - TV",
+                                            "ref": "Behind House Key/TV"
+                                        },
+                                    
+                                    ],
+                                    "map_locations": [
+                                        {
+                                            "map": "Overworld",
+                                            "x": 2202,
+                                            "y": 1458,
+                                            "size": 12
+                                        }
+                                    ]
+                                    },
+                                    
+                                {
+                                    "name": "Sage Airship",
+                                    "chest_unopened_img": "/images/Items/close.png",
+                                    "chest_opened_img": "/images/Items/open.png",
+                                    "overlay_background": "#000000",
+                                    "access_rules": [" "],
+                                    "sections": [
+                                    
+                                        {
+                                            "name": "Bottom Level - Bottom Level Pot",
+                                            "ref": "Bottom Level/Bottom Level Pot"
+                                        },
+                                    
+                                        {
+                                            "name": "Flesh Pot - Flesh Pot",
+                                            "ref": "Flesh Pot/Flesh Pot"
+                                        },
+                                    
+                                        {
+                                            "name": "Flesh Medallion - Flesh Medallion",
+                                            "ref": "Flesh Medallion/Flesh Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Top Jar - Top Jar",
+                                            "ref": "Top Jar/Top Jar"
+                                        },
+                                    
+                                        {
+                                            "name": "Needs three Sage Tokens - TV",
+                                            "ref": "Needs three Sage Tokens/TV"
+                                        },
+                                    
+                                        {
+                                            "name": "Walkway Medallion - Walkway Medallion",
+                                            "ref": "Walkway Medallion/Walkway Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Top of Ship Medallion - Top of Ship Medallion",
+                                            "ref": "Top of Ship Medallion/Top of Ship Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Behind Ship - Hidden Medallion 1",
+                                            "ref": "Behind Ship/Hidden Medallion 1"
+                                        },
+                                    
+                                        {
+                                            "name": "Behind Ship - Hidden Medallion 2",
+                                            "ref": "Behind Ship/Hidden Medallion 2"
+                                        },
+                                    
+                                        {
+                                            "name": "Behind Ship - Hidden Medallion 3",
+                                            "ref": "Behind Ship/Hidden Medallion 3"
+                                        },
+                                    
+                                    ],
+                                    "map_locations": [
+                                        {
+                                            "map": "Overworld",
+                                            "x": 535,
+                                            "y": 546,
+                                            "size": 12
+                                        }
+                                    ]
+                                    },
+                                    
+                                {
+                                    "name": "Sage Labyrinth",
+                                    "chest_unopened_img": "/images/Items/close.png",
+                                    "chest_opened_img": "/images/Items/open.png",
+                                    "overlay_background": "#000000",
+                                    "access_rules": [" "],
+                                    "sections": [
+                                    
+                                        {
+                                            "name": "Patrol Jumpscare - Chest Near Fountain",
+                                            "ref": "Patrol Jumpscare/Chest Near Fountain"
+                                        },
+                                    
+                                        {
+                                            "name": "Hidden Sarcophagus - Hidden Sarcophagus",
+                                            "ref": "Hidden Sarcophagus/Hidden Sarcophagus"
+                                        },
+                                    
+                                        {
+                                            "name": "Four Statues Chest 1 - Four Statues Chest 1",
+                                            "ref": "Four Statues Chest 1/Four Statues Chest 1"
+                                        },
+                                    
+                                        {
+                                            "name": "Four Statues Chest 2 - Four Statues Chest 2",
+                                            "ref": "Four Statues Chest 2/Four Statues Chest 2"
+                                        },
+                                    
+                                        {
+                                            "name": "Double Chest - Double Chest 1",
+                                            "ref": "Double Chest/Double Chest 1"
+                                        },
+                                    
+                                        {
+                                            "name": "Double Chest - Double Chest 2",
+                                            "ref": "Double Chest/Double Chest 2"
+                                        },
+                                    
+                                        {
+                                            "name": "Single Chest - Single Chest",
+                                            "ref": "Single Chest/Single Chest"
+                                        },
+                                    
+                                        {
+                                            "name": "Patrol disappears when changing floors - Enemy Chest",
+                                            "ref": "Patrol disappears when changing floors/Enemy Chest"
+                                        },
+                                    
+                                        {
+                                            "name": "Hidden Sarcophagus - Hidden Sarcophagus",
+                                            "ref": "Hidden Sarcophagus/Hidden Sarcophagus"
+                                        },
+                                    
+                                        {
+                                            "name": "B1 - Hole Chest",
+                                            "ref": "B1/Hole Chest"
+                                        },
+                                    
+                                        {
+                                            "name": "Hidden Sarcophagus 1 - Hidden Sarcophagus 1",
+                                            "ref": "Hidden Sarcophagus 1/Hidden Sarcophagus 1"
+                                        },
+                                    
+                                        {
+                                            "name": "Hidden Sarcophagus 2 - Hidden Sarcophagus 2",
+                                            "ref": "Hidden Sarcophagus 2/Hidden Sarcophagus 2"
+                                        },
+                                    
+                                        {
+                                            "name": "2F - Sarcophagus",
+                                            "ref": "2F/Sarcophagus"
+                                        },
+                                    
+                                        {
+                                            "name": "Boss Secret Chest 1 - Boss Secret Chest 1",
+                                            "ref": "Boss Secret Chest 1/Boss Secret Chest 1"
+                                        },
+                                    
+                                        {
+                                            "name": "Boss Secret Chest 2 - Boss Secret Chest 2",
+                                            "ref": "Boss Secret Chest 2/Boss Secret Chest 2"
+                                        },
+                                    
+                                        {
+                                            "name": "B4 - Motor Hunter Sarcophagus",
+                                            "ref": "B4/Motor Hunter Sarcophagus"
+                                        },
+                                    
+                                        {
+                                            "name": "Talk to Sage - Sage Item 1",
+                                            "ref": "Talk to Sage/Sage Item 1"
+                                        },
+                                    
+                                        {
+                                            "name": "Talk to Sage - Sage Item 2",
+                                            "ref": "Talk to Sage/Sage Item 2"
+                                        },
+                                    
+                                        {
+                                            "name": "Eat the Sage - Sage Left Arm",
+                                            "ref": "Eat the Sage/Sage Left Arm"
+                                        },
+                                    
+                                        {
+                                            "name": "Eat the Sage - Sage Right Arm",
+                                            "ref": "Eat the Sage/Sage Right Arm"
+                                        },
+                                    
+                                        {
+                                            "name": "Eat the Sage - Sage Left Leg",
+                                            "ref": "Eat the Sage/Sage Left Leg"
+                                        },
+                                    
+                                        {
+                                            "name": "Eat the Sage - Sage Right Leg",
+                                            "ref": "Eat the Sage/Sage Right Leg"
+                                        },
+                                    
+                                    ],
+                                    "map_locations": [
+                                        {
+                                            "map": "Overworld",
+                                            "x": 1992,
+                                            "y": 253,
+                                            "size": 12
+                                        }
+                                    ]
+                                    },
+                                    
+                                {
+                                    "name": "TV Island",
+                                    "chest_unopened_img": "/images/Items/close.png",
+                                    "chest_opened_img": "/images/Items/open.png",
+                                    "overlay_background": "#000000",
+                                    "access_rules": [" "],
+                                    "sections": [
+                                    
+                                        {
+                                            "name": "Inside - TV",
+                                            "ref": "Inside/TV"
+                                        },
+                                    
+                                    ],
+                                    "map_locations": [
+                                        {
+                                            "map": "Overworld",
+                                            "x": 1362,
+                                            "y": 96,
+                                            "size": 12
+                                        }
+                                    ]
+                                    },
+                                    
+                                {
+                                    "name": "Viewax's Edifice",
+                                    "chest_unopened_img": "/images/Items/close.png",
+                                    "chest_opened_img": "/images/Items/open.png",
+                                    "overlay_background": "#000000",
+                                    "access_rules": [" "],
+                                    "sections": [
+                                    
+                                        {
+                                            "name": "Dedusmuln - Dedusmuln's Suitcase",
+                                            "ref": "Dedusmuln/Dedusmuln's Suitcase"
+                                        },
+                                    
+                                        {
+                                            "name": "Dedusmuln - Dedusmuln's Campfire",
+                                            "ref": "Dedusmuln/Dedusmuln's Campfire"
+                                        },
+                                    
+                                        {
+                                            "name": "Dedusmuln - Talk to Dedusmuln",
+                                            "ref": "Dedusmuln/Talk to Dedusmuln"
+                                        },
+                                    
+                                        {
+                                            "name": "Dedusmuln - Dedusmuln Joins",
+                                            "ref": "Dedusmuln/Dedusmuln Joins"
+                                        },
+                                    
+                                        {
+                                            "name": "Outside Fort - Fountain Banana",
+                                            "ref": "Outside Fort/Fountain Banana"
+                                        },
+                                    
+                                        {
+                                            "name": "Dark Cave - Cave Sarcophagus",
+                                            "ref": "Dark Cave/Cave Sarcophagus"
+                                        },
+                                    
+                                        {
+                                            "name": "Arcade Cave - Shielded Key",
+                                            "ref": "Arcade Cave/Shielded Key"
+                                        },
+                                    
+                                        {
+                                            "name": "Tower Jump - Tower Pot",
+                                            "ref": "Tower Jump/Tower Pot"
+                                        },
+                                    
+                                        {
+                                            "name": "Tower Jump - Tower Jar",
+                                            "ref": "Tower Jump/Tower Jar"
+                                        },
+                                    
+                                        {
+                                            "name": "Tower Jump - Jar Medallion",
+                                            "ref": "Tower Jump/Jar Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Tower Key - Tower Chest",
+                                            "ref": "Tower Key/Tower Chest"
+                                        },
+                                    
+                                        {
+                                            "name": "Talk to Sage - Sage Item 1",
+                                            "ref": "Talk to Sage/Sage Item 1"
+                                        },
+                                    
+                                        {
+                                            "name": "Talk to Sage - Sage Item 2",
+                                            "ref": "Talk to Sage/Sage Item 2"
+                                        },
+                                    
+                                        {
+                                            "name": "Sage Chair Medallion - Sage Chair Medallion",
+                                            "ref": "Sage Chair Medallion/Sage Chair Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Sage Room - Sage Fridge",
+                                            "ref": "Sage Room/Sage Fridge"
+                                        },
+                                    
+                                        {
+                                            "name": "Viewax - Defeat Viewax",
+                                            "ref": "Viewax/Defeat Viewax"
+                                        },
+                                    
+                                        {
+                                            "name": "Throne Room - Viewax Pot",
+                                            "ref": "Throne Room/Viewax Pot"
+                                        },
+                                    
+                                        {
+                                            "name": "Below Jail - TV",
+                                            "ref": "Below Jail/TV"
+                                        },
+                                    
+                                        {
+                                            "name": "Fort Wall Medallion - Fort Wall Medallion",
+                                            "ref": "Fort Wall Medallion/Fort Wall Medallion"
+                                        },
+                                    
+                                        {
+                                            "name": "Viewax's Edifice - Canopic Jar",
+                                            "ref": "Viewax's Edifice/Canopic Jar"
+                                        },
+                                    
+                                    ],
+                                    "map_locations": [
+                                        {
+                                            "map": "Overworld",
+                                            "x": 295,
+                                            "y": 1200,
+                                            "size": 12
+                                        }
+                                    ]
+                                    },
+                                    
+                                {
+                                    "name": "Waynehouse",
+                                    "chest_unopened_img": "/images/Items/close.png",
+                                    "chest_opened_img": "/images/Items/open.png",
+                                    "overlay_background": "#000000",
+                                    "access_rules": [" "],
+                                    "sections": [
+                                    
+                                        {
+                                            "name": "TV - TV",
+                                            "ref": "TV/TV"
+                                        },
+                                    
+                                        {
+                                            "name": "Inside - Toilet",
+                                            "ref": "Inside/Toilet"
+                                        },
+                                    
+                                        {
+                                            "name": "Basement - Basement Pot 1",
+                                            "ref": "Basement/Basement Pot 1"
+                                        },
+                                    
+                                        {
+                                            "name": "Basement - Basement Pot 2",
+                                            "ref": "Basement/Basement Pot 2"
+                                        },
+                                    
+                                        {
+                                            "name": "Basement - Basement Pot 3",
+                                            "ref": "Basement/Basement Pot 3"
+                                        },
+                                    
+                                        {
+                                            "name": "Waynehouse - Sarcophagus",
+                                            "ref": "Waynehouse/Sarcophagus"
+                                        },
+                                    
+                                    ],
+                                    "map_locations": [
+                                        {
+                                            "map": "Overworld",
+                                            "x": 2397,
+                                            "y": 986,
+                                            "size": 12
+                                        }
+                                    ]
+                                    },
+                                    
+                                {
+                                    "name": "Worm Pod",
+                                    "chest_unopened_img": "/images/Items/close.png",
+                                    "chest_opened_img": "/images/Items/open.png",
+                                    "overlay_background": "#000000",
+                                    "access_rules": [" "],
+                                    "sections": [
+                                    
+                                        {
+                                            "name": "Worm Pod - Key",
+                                            "ref": "Worm Pod/Key"
+                                        },
+                                    
+                                    ],
+                                    "map_locations": [
+                                        {
+                                            "map": "Overworld",
+                                            "x": 1996,
+                                            "y": 1433,
+                                            "size": 12
+                                        }
+                                    ]
+                                    },
+                                    
+                                ]
+                }
+        ]

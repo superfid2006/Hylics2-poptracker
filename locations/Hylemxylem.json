@@ -1,0 +1,635 @@
+[
+                    {
+                        "name": "Hylemxylem",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+                        "children": [
+                    
+                    {
+                        "name": "Inside Entrance",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+                        "children": [
+                    
+                    {
+                        "name": "Lower Reservoir Key",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Lower Reservoir Key",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Hylemxylem",
+                                    "x": 56,
+                                    "y": 942,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem Outside Entrance",
+                                    "x": 56,
+                                    "y": 942,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem Inside Entrance",
+                                    "x": 713,
+                                    "y": 646,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Lower Reservoir Medallion",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Lower Reservoir Medallion",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Hylemxylem",
+                                    "x": 86,
+                                    "y": 942,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem Outside Entrance",
+                                    "x": 86,
+                                    "y": 942,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem Inside Entrance",
+                                    "x": 67,
+                                    "y": 499,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                                ],
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Jar",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Hylemxylem",
+                                    "x": 116,
+                                    "y": 942,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem Outside Entrance",
+                                    "x": 116,
+                                    "y": 942,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem Inside Entrance",
+                                    "x": 658,
+                                    "y": 269,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Above Entrance",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Fountain Banana",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Hylemxylem",
+                                    "x": 149,
+                                    "y": 907,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem Outside Entrance",
+                                    "x": 539,
+                                    "y": 278,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Inside East Island",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+                        "children": [
+                    
+                    {
+                        "name": "East Island Banana",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "East Island Banana",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Hylemxylem East Building",
+                                    "x": 309,
+                                    "y": 684,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem",
+                                    "x": 637,
+                                    "y": 614,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem Side Path",
+                                    "x": 711,
+                                    "y": 280,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem Outside Upper Floor",
+                                    "x": 956,
+                                    "y": 872,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "East Island Chest",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "East Island Chest",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Hylemxylem East Building",
+                                    "x": 353,
+                                    "y": 44,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Needs a hug",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Warpo Medallion",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Hylemxylem East Building",
+                                    "x": 54,
+                                    "y": 58,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem",
+                                    "x": 667,
+                                    "y": 614,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem Side Path",
+                                    "x": 741,
+                                    "y": 280,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem Outside Upper Floor",
+                                    "x": 986,
+                                    "y": 872,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                                ],},
+                                
+                    {
+                        "name": "Upper Chamber past door",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+                        "children": [
+                    
+                    {
+                        "name": "Drain Switch Medallion",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Drain Switch Medallion",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Hylemxylem Inside Upper Floor",
+                                    "x": 235,
+                                    "y": 196,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem",
+                                    "x": 229,
+                                    "y": 473,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem Outside Upper Floor",
+                                    "x": 265,
+                                    "y": 315,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                                ],
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Upper Chamber Banana",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Hylemxylem Inside Upper Floor",
+                                    "x": 843,
+                                    "y": 158,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Upper Reservoir",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+                        "children": [
+                    
+                    {
+                        "name": "Across Upper Reservoir",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Across Upper Reservoir Chest",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Hylemxylem Upper Reservoir",
+                                    "x": 304,
+                                    "y": 62,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem Outside Upper Floor",
+                                    "x": 226,
+                                    "y": 312,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Drained Upper Reservoir",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Drained Upper Reservoir Burrito 1",
+                                "item_count": 1
+                            },
+                        
+                            {
+                                "name": "Drained Upper Reservoir Burrito 2",
+                                "item_count": 1
+                            },
+                        
+                            {
+                                "name": "Drained Upper Reservoir Burrito 3",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Hylemxylem Upper Reservoir",
+                                    "x": 832,
+                                    "y": 525,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                                ],},
+                                
+                    {
+                        "name": "Drained Lower Reservoir",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+                        "children": [
+                    
+                    {
+                        "name": "Chest",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Drained Lower Reservoir Chest",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Hylemxylem Inside Entrance",
+                                    "x": 414,
+                                    "y": 481,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Drained Lower Reservoir Burrito 1",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Drained Lower Reservoir Burrito 1",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Hylemxylem Inside Entrance",
+                                    "x": 422,
+                                    "y": 549,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Drained Lower Reservoir Burrito 2",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Drained Lower Reservoir Burrito 2",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Hylemxylem Inside Entrance",
+                                    "x": 535,
+                                    "y": 785,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                                ],},
+                                
+                    {
+                        "name": "Lower Reservoir Hole",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Lower Reservoir Hole Pot 1",
+                                "item_count": 1
+                            },
+                        
+                            {
+                                "name": "Lower Reservoir Hole Pot 2",
+                                "item_count": 1
+                            },
+                        
+                            {
+                                "name": "Lower Reservoir Hole Pot 3",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Hylemxylem Inside Entrance",
+                                    "x": 754,
+                                    "y": 71,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Below Lower Reservoir",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+                        "children": [
+                    
+                    {
+                        "name": "Sarcophagus",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Lower Reservoir Hole Sarcophagus",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Hylemxylem Lower Reservoir Hole",
+                                    "x": 273,
+                                    "y": 207,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Medallion",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Lower Reservoir Hole Medallion",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Hylemxylem Lower Reservoir Hole",
+                                    "x": 588,
+                                    "y": 212,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                                ],},
+                                
+                    {
+                        "name": "Below Upper Reservoir",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Upper Reservoir Hole Key",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Hylemxylem Upper Reservoir",
+                                    "x": 560,
+                                    "y": 536,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem Upper Reservoir Hole",
+                                    "x": 372,
+                                    "y": 638,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                                ],},
+                                
+                            ]

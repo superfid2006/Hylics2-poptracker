@@ -1,0 +1,274 @@
+{
+    "shared_key_grid_horizontal": {
+      "type": "array",
+      "orientation": "horizontal",
+      "margin": "0,0", 
+      "content": [
+        {
+          "type": "itemgrid",
+          "item_margin": "2, 2",
+          "h_alignment": "left",
+          "item_h_alignment": "stretch",
+          "item_v_alignment": "stretch",
+          "item_height": 36,
+          "item_width": 72,
+          "rows": [
+                            [
+                            "CAVEKEY",
+                            "HOUSEKEY",
+                            "UPPERHOUSEKEY",
+                            "JAILKEY"
+                            ]
+                            ,[
+                            "TOWERKEY",
+                            "WORMROOMKEY",
+                            "BRIDGEKEY"
+                            ]
+                            ,[
+                            "DEEPKEY",
+                            "UPPERCHAMBERKEY",
+                            "VESSELROOMKEY"
+                            ]
+          ]
+        }
+      ]
+    },
+    "shared_major_grid_horizontal": {
+      "type": "array",
+      "orientation": "horizontal",
+      "margin": "0,0", 
+      "content": [
+        {
+          "type": "itemgrid",
+          "item_margin": "2, 2",
+          "h_alignment": "left",
+          "item_h_alignment": "stretch",
+          "item_v_alignment": "stretch",
+          "item_height": 36,
+          "item_width": 72,
+          "rows": [
+                            [
+                            "PNEUMATOPHORE",
+                            "PADDLE",
+                            "DOCKKEY"
+                            ]
+                            ,[
+                            "CLICKER",
+                            "SKULLBOMB",
+                            "SAGETOKEN"
+                            ]
+                            ,[
+                            "PAPERCUP",
+                            "BOTTOMLESSJUICE"
+                            ]
+          ]
+        }
+      ]
+    },
+    "shared_gesture_grid_horizontal": {
+      "type": "array",
+      "orientation": "horizontal",
+      "margin": "0,0", 
+      "content": [
+        {
+          "type": "itemgrid",
+          "item_margin": "2, 2",
+          "h_alignment": "left",
+          "item_h_alignment": "stretch",
+          "item_v_alignment": "stretch",
+          "item_height": 36,
+          "item_width": 72,
+          "rows": [
+                            [
+                            "POROMERBLEB",
+                            "SOULCRISPER",
+                            "TIMESIGIL"
+                            ]
+                            ,[
+                            "CHARGEUP",
+                            "FATESANDBOX",
+                            "TELEDENUDATE",
+                            ]
+                            ,[
+                            "LINKMOLLUSC",
+                            "BOMBO-GENESIS",
+                            "NEMATODEINTERFACE"
+                            ]
+          ]
+        }
+      ]
+    },
+    "shared_party_grid_horizontal": {
+      "type": "array",
+      "orientation": "horizontal",
+      "margin": "0,0", 
+      "content": [
+        {
+          "type": "itemgrid",
+          "item_margin": "2, 2",
+          "h_alignment": "left",
+          "item_h_alignment": "stretch",
+          "item_v_alignment": "stretch",
+          "item_height": 36,
+          "item_width": 72,
+          "rows": [
+                            [
+                            "Pongorma",
+                            "Dedusmuln",
+                            "Somsnosa"
+                            ]
+          ]
+        }
+      ]
+    },
+    "shared_key_grid_vertical": {
+      "type": "array",
+      "orientation": "vertical",
+      "margin": "0,0",
+      "content": [
+        {
+          "type": "array",
+          "orientation": "vertical",
+          "margin": "0,0",
+          "content": [
+            {
+              "type": "itemgrid",
+              "item_margin": "2, 2",
+              "h_alignment": "left",
+              "item_h_alignment": "stretch",
+              "item_v_alignment": "stretch",
+              "item_height": 36,
+              "item_width": 72,
+              "rows": [
+                            [
+                            "CAVEKEY",
+                            "HOUSEKEY",
+                            "UPPERHOUSEKEY",
+                            "JAILKEY"
+                            ]
+                            ,[
+                            "TOWERKEY",
+                            "WORMROOMKEY",
+                            "BRIDGEKEY"
+                            ]
+                            ,[
+                            "DEEPKEY",
+                            "UPPERCHAMBERKEY",
+                            "VESSELROOMKEY"
+                            ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "shared_major_grid_vertical": {
+      "type": "array",
+      "orientation": "vertical",
+      "margin": "0,0",
+      "content": [
+        {
+          "type": "array",
+          "orientation": "vertical",
+          "margin": "0,0",
+          "content": [
+            {
+              "type": "itemgrid",
+              "item_margin": "2, 2",
+              "h_alignment": "left",
+              "item_h_alignment": "stretch",
+              "item_v_alignment": "stretch",
+              "item_height": 36,
+              "item_width": 72,
+              "rows": [
+                            [
+                            "PNEUMATOPHORE",
+                            "PADDLE",
+                            "DOCKKEY"
+                            ]
+                            ,[
+                            "CLICKER",
+                            "SKULLBOMB",
+                            "SAGETOKEN"
+                            ]
+                            ,[
+                            "PAPERCUP",
+                            "BOTTOMLESSJUICE"
+                            ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "shared_gesture_grid_vertical": {
+      "type": "array",
+      "orientation": "vertical",
+      "margin": "0,0",
+      "content": [
+        {
+          "type": "array",
+          "orientation": "vertical",
+          "margin": "0,0",
+          "content": [
+            {
+              "type": "itemgrid",
+              "item_margin": "2, 2",
+              "h_alignment": "left",
+              "item_h_alignment": "stretch",
+              "item_v_alignment": "stretch",
+              "item_height": 36,
+              "item_width": 72,
+              "rows": [
+                            [
+                            "POROMERBLEB",
+                            "SOULCRISPER",
+                            "TIMESIGIL"
+                            ]
+                            ,[
+                            "CHARGEUP",
+                            "FATESANDBOX",
+                            "TELEDENUDATE",
+                            ]
+                            ,[
+                            "LINKMOLLUSC",
+                            "BOMBO-GENESIS",
+                            "NEMATODEINTERFACE"
+                            ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "shared_party_grid_vertical": {
+      "type": "array",
+      "orientation": "vertical",
+      "margin": "0,0",
+      "content": [
+        {
+          "type": "array",
+          "orientation": "vertical",
+          "margin": "0,0",
+          "content": [
+            {
+              "type": "itemgrid",
+              "item_margin": "2, 2",
+              "h_alignment": "left",
+              "item_h_alignment": "stretch",
+              "item_v_alignment": "stretch",
+              "item_height": 36,
+              "item_width": 72,
+              "rows": [
+                            [
+                            "Pongorma",
+                            "Dedusmuln",
+                            "Somsnosa"
+                            ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }

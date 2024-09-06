@@ -1,0 +1,354 @@
+[
+                    {
+                        "name": "Arcade 1",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+                        "children": [
+                    
+                    {
+                        "name": "Key",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Key",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Arcade 1",
+                                    "x": 230,
+                                    "y": 298,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Arcade 1 - Left",
+                                    "x": 625,
+                                    "y": 668,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Coin Dash",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Coin Dash",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Arcade 1",
+                                    "x": 476,
+                                    "y": 141,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Arcade 1 - Left",
+                                    "x": 1340,
+                                    "y": 229,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Burrito Alcove 1",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Burrito Alcove 1",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Arcade 1",
+                                    "x": 791,
+                                    "y": 130,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Arcade 1 - Middle",
+                                    "x": 694,
+                                    "y": 321,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Burrito Alcove 2",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Burrito Alcove 2",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Arcade 1",
+                                    "x": 674,
+                                    "y": 213,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Arcade 1 - Middle",
+                                    "x": 386,
+                                    "y": 584,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Behind Spikes Banana",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Behind Spikes Banana",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Arcade 1",
+                                    "x": 770,
+                                    "y": 115,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Arcade 1 - Middle",
+                                    "x": 644,
+                                    "y": 282,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Pyramid Banana",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Pyramid Banana",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Arcade 1",
+                                    "x": 888,
+                                    "y": 72,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Arcade 1 - Middle",
+                                    "x": 950,
+                                    "y": 171,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Moving Platforms",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Moving Platforms Muscle Applique",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Arcade 1",
+                                    "x": 1133,
+                                    "y": 172,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Arcade 1 - Middle",
+                                    "x": 1568,
+                                    "y": 430,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Bed Banana",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Bed Banana",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Arcade 1",
+                                    "x": 1742,
+                                    "y": 96,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Arcade 1 - Right",
+                                    "x": 1194,
+                                    "y": 120,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Lonely Medallion",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Lonely Medallion",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Arcade 1",
+                                    "x": 20,
+                                    "y": 201,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Arcade 1 - Left",
+                                    "x": 32,
+                                    "y": 407,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Lava Medallion",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Lava Medallion",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Arcade 1",
+                                    "x": 1444,
+                                    "y": 251,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Arcade 1 - Right",
+                                    "x": 527,
+                                    "y": 504,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Alcove Medallion",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Alcove Medallion",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Arcade 1",
+                                    "x": 929,
+                                    "y": 96,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Arcade 1 - Middle",
+                                    "x": 1060,
+                                    "y": 236,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                                ],},
+                                
+                            ]

@@ -1,0 +1,473 @@
+[
+            {
+                "name": "Overworld",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/Overworld.png"
+            },
+            
+            {
+                "name": "Waynehouse",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/waynehouse/waynehouse_outside.png"                
+            },      
+            {
+                "name": "Waynehouse Inside",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/waynehouse/waynehouse_inside.png"                
+            },     
+            {
+                "name": "Waynehouse Basement",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/waynehouse/waynehouse_basement.png"                
+            },
+
+            {
+                "name": "Afterlife",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/afterlife/afterlife_outside.png"
+            },
+            {
+                "name": "Afterlife Cave",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/afterlife/afterlife_basement.png"
+            },
+            
+            {
+                "name": "New Muldul",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/new muldul/new muldul_outside.png"
+            },
+            {
+                "name": "New Muldul General Shop",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/new muldul/new muldul_general and coffee shop.png"
+            },
+            {
+                "name": "New Muldul Glove Shop",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/new muldul/new muldul_glove shop.png"
+            },
+            {
+                "name": "New Muldul Palace Entrance",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/new muldul/new muldul_inside palace.png"
+            },
+            {
+                "name": "New Muldul Palace Vault",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/new muldul/new muldul_inside vault.png"
+            },
+            {
+                "name": "New Muldul Underground",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/new muldul/new muldul_underground.png"
+            },
+            {
+                "name": "New Muldul Upper House",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/new muldul/new muldul_upper house.png"
+            },
+            
+            {
+                "name": "Viewax's Edifice",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/viewax edifice/viewax edifice_inside fort.png"
+            },
+            {
+                "name": "Viewax's Edifice Outside Fort",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/viewax edifice/viewax edifice_outside fort.png"
+            },
+            {
+                "name": "Viewax's Edifice Arcade Cave",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/viewax edifice/viewax edifice_arcade cave.png"
+            },
+            {
+                "name": "Viewax's Edifice Below Jail",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/viewax edifice/viewax edifice_below jail.png"
+            },
+            {
+                "name": "Viewax's Edifice Jail",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/viewax edifice/viewax edifice_jail.png"
+            },
+            {
+                "name": "Viewax's Edifice Sage Room",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/viewax edifice/viewax edifice_sage.png"
+            },
+            {
+                "name": "Viewax's Edifice Throne Room",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/viewax edifice/viewax edifice_throne room.png"
+            },
+            
+            {
+                "name": "Arcade 1",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/arcade 1/arcade 1_full.png"
+            },
+            {
+                "name": "Arcade 1 - Left",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/arcade 1/arcade 1_one.png"
+            },
+            {
+                "name": "Arcade 1 - Middle",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/arcade 1/arcade 1_two.png"
+            },
+            {
+                "name": "Arcade 1 - Right",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/arcade 1/arcade 1_three.png"
+            },
+            
+            {
+                "name": "Airship",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/Airship_inside.png"
+            },
+            
+            {
+                "name": "TV Island",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/tv island/tv island_outside.png"
+            },
+            {
+                "name": "TV Island Inside",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/tv island/tv island_inside.png"
+            },
+            
+            {
+                "name": "Juice Ranch",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/Juice Ranch.png"
+            },
+            
+            {
+                "name": "Worm Pod",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/Worm Pod.png"
+            },
+            
+            {
+                "name": "Foglast",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/foglast/foglast_outside full.png"
+            },
+            {
+                "name": "Foglast Entrance Mountain",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/foglast/foglast_entrance mountain.png"
+            },
+            {
+                "name": "Foglast Curved Path",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/foglast/foglast_curved path.png"
+            },
+            {
+                "name": "Foglast TV Mountain",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/foglast/foglast_tv mountain.png"
+            },
+            {
+                "name": "Foglast Bridge Mountain",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/foglast/foglast_bridge mountain.png"
+            },
+            {
+                "name": "Foglast Lair",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/foglast/foglast_lair.png"
+            },
+            {
+                "name": "Foglast Far Back",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/foglast/foglast_Far Back.png"
+            },
+            {
+                "name": "Foglast Inside Entrance Mountain",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/foglast/foglast_inside entrance mountain.png"
+            },
+            {
+                "name": "Foglast Inside Curved Path",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/foglast/foglast_inside curved path.png"
+            },            
+            {
+                "name": "Foglast Inside Bridge Mountain - Shield Room",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/foglast/foglast_inside bridge mountain shield room.png"
+            },
+            {
+                "name": "Foglast Inside Bridge Mountain - Shop Near Bridge",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/foglast/foglast_inside bridge mountain shop near bridge.png"
+            },
+            {
+                "name": "Foglast Inside Lair",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/foglast/foglast_inside lair.png"
+            },
+            {
+                "name": "Foglast Under Lair",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/foglast/foglast_under lair.png"
+            },
+            {
+                "name": "Foglast Fridge Cave",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/foglast/foglast_under lair.png"
+            },
+            {
+                "name": "Foglast Sage Room",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/foglast/foglast_sage room.png"
+            },
+            
+            {
+                "name": "Arcade Island",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/arcade 2/arcade 2_island inside.png"
+            },
+            {
+                "name": "Arcade 2",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/arcade 2/arcade 2_full.png"
+            },
+            {
+                "name": "Arcade 2 - Left",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/arcade 2/arcade 2_first island.png"
+            },
+            {
+                "name": "Arcade 2 - Middle",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/arcade 2/arcade 2_airships.png"
+            },
+            {
+                "name": "Arcade 2 - Right",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/arcade 2/arcade 2_second island.png"
+            },
+            
+            {
+                "name": "Drill Castle",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/drill castle/drill castle_outside.png"
+            },
+            {
+                "name": "Drill Castle Inside",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/drill castle/drill castle_inside.png"
+            },
+            {
+                "name": "Drill Castle Paradox Cave",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/drill castle/drill castle_paradox cave.png"
+            },
+            
+            {
+                "name": "Sage Labyrinth",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/sage labyrinth/sage labyrinth_map legend.png"
+            },
+            {
+                "name": "Sage Labyrinth 1F-1",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/sage labyrinth/sage labyrinth_1F-1.png"
+            },
+            {
+                "name": "Sage Labyrinth 1F-2",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/sage labyrinth/sage labyrinth_1F-2.png"
+            },
+            {
+                "name": "Sage Labyrinth 1F-3",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/sage labyrinth/sage labyrinth_1F-3.png"
+            },
+            {
+                "name": "Sage Labyrinth 2F",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/sage labyrinth/sage labyrinth_2F.png"
+            },
+            {
+                "name": "Sage Labyrinth B1",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/sage labyrinth/sage labyrinth_B1.png"
+            },
+            {
+                "name": "Sage Labyrinth B2",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/sage labyrinth/sage labyrinth_B2.png"
+            },
+            {
+                "name": "Sage Labyrinth B3",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/sage labyrinth/sage labyrinth_B3.png"
+            },
+            {
+                "name": "Sage Labyrinth B4",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/sage labyrinth/sage labyrinth_B4.png"
+            },
+            {
+                "name": "Sage Labyrinth Sage Beach",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/sage labyrinth/sage labyrinth_sage beach.png"
+            },
+            
+            {
+                "name": "Sage Airship",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/sage airship/sage airship_outside.png"
+            },
+            {
+                "name": "Sage Airship Back",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/sage airship/sage airship_outside back.png"
+            },
+            {
+                "name": "Sage Airship Lower Floor",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/sage airship/sage airship_inside lower floor.png"
+            },
+            {
+                "name": "Sage Airship Upper Floor",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/sage airship/sage airship_inside upper floor.png"
+            },
+            
+            {
+                "name": "Hylemxylem",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/hylemxylem/hylemxylem_outside full.png"
+            },
+            {
+                "name": "Hylemxylem Outside Entrance",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/hylemxylem/hylemxylem_outside entrance.png"
+            },
+            {
+                "name": "Hylemxylem Inside Entrance",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/hylemxylem/hylemxylem_inside entrance.png"
+            },
+            {
+                "name": "Hylemxylem Outside Upper Floor",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/hylemxylem/hylemxylem_outside upper floor.png"
+            },
+            {
+                "name": "Hylemxylem Side Path",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/hylemxylem/hylemxylem_outside side path.png"
+            },
+            {
+                "name": "Hylemxylem East Building",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/hylemxylem/hylemxylem_inside side path lower and upper entrance.png"
+            },
+            {
+                "name": "Hylemxylem Inside Upper Floor",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/hylemxylem/hylemxylem_inside upper floor past door.png"
+            },
+            {
+                "name": "Hylemxylem Upper Reservoir",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/hylemxylem/hylemxylem_upper reservoir.png"
+            },
+            {
+                "name": "Hylemxylem Upper Reservoir Hole",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/hylemxylem/hylemxylem_upper reservoir hole.png"
+            },
+            {
+                "name": "Hylemxylem Lower Reservoir Hole",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/hylemxylem/hylemxylem_lower reservoir hole.png"
+            }
+]

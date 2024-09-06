@@ -1,0 +1,705 @@
+[
+                    {
+                        "name": "DUBIOUSBERRY",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/DUBIOUSBERRY.png",
+                        "overlay_background": "#000000",
+                        "codes": "DUBIOUSBERRY"
+                    },
+                    {
+                        "name": "BURRITO",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/BURRITO.png",
+                        "overlay_background": "#000000",
+                        "codes": "BURRITO"
+                    },
+                    {
+                        "name": "COFFEE",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/COFFEE.png",
+                        "overlay_background": "#000000",
+                        "codes": "COFFEE"
+                    },
+                    {
+                        "name": "SOULSPONGE",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/SOULSPONGE.png",
+                        "overlay_background": "#000000",
+                        "codes": "SOULSPONGE"
+                    },
+                    {
+                        "name": "MUSCLEAPPLIQUE",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/MUSCLEAPPLIQUE.png",
+                        "overlay_background": "#000000",
+                        "codes": "MUSCLEAPPLIQUE"
+                    },
+                    {
+                        "name": "POOLWINE",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/POOLWINE.png",
+                        "overlay_background": "#000000",
+                        "codes": "POOLWINE"
+                    },
+                    {
+                        "name": "CUPCAKE",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/CUPCAKE.png",
+                        "overlay_background": "#000000",
+                        "codes": "CUPCAKE"
+                    },
+                    {
+                        "name": "COOKIE",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/COOKIE.png",
+                        "overlay_background": "#000000",
+                        "codes": "COOKIE"
+                    },
+                    {
+                        "name": "HOUSEKEY",
+                        "type": "toggle",
+                        "img": "/images/Items/HOUSEKEY.png",
+                        "codes": "HOUSEKEY"
+                    },
+                    
+                    {
+                        "name": "MEAT",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/MEAT.png",
+                        "overlay_background": "#000000",
+                        "codes": "MEAT"
+                    },
+                    {
+                        "name": "PNEUMATOPHORE",
+                        "type": "toggle",
+                        "img": "/images/Items/PNEUMATOPHORE.png",
+                        "codes": "PNEUMATOPHORE"
+                    },
+                    
+                    {
+                        "name": "CAVEKEY",
+                        "type": "toggle",
+                        "img": "/images/Items/CAVEKEY.png",
+                        "codes": "CAVEKEY"
+                    },
+                    
+                    {
+                        "name": "JUICE",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/JUICE.png",
+                        "overlay_background": "#000000",
+                        "codes": "JUICE"
+                    },
+                    {
+                        "name": "DOCKKEY",
+                        "type": "toggle",
+                        "img": "/images/Items/DOCKKEY.png",
+                        "codes": "DOCKKEY"
+                    },
+                    
+                    {
+                        "name": "BANANA",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/BANANA.png",
+                        "overlay_background": "#000000",
+                        "codes": "BANANA"
+                    },
+                    {
+                        "name": "PAPERCUP",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 3,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/PAPERCUP.png",
+                        "overlay_background": "#000000",
+                        "codes": "PAPERCUP"
+                    },
+                    {
+                        "name": "JAILKEY",
+                        "type": "toggle",
+                        "img": "/images/Items/JAILKEY.png",
+                        "codes": "JAILKEY"
+                    },
+                    
+                    {
+                        "name": "PADDLE",
+                        "type": "toggle",
+                        "img": "/images/Items/PADDLE.png",
+                        "codes": "PADDLE"
+                    },
+                    
+                    {
+                        "name": "WORMROOMKEY",
+                        "type": "toggle",
+                        "img": "/images/Items/WORMROOMKEY.png",
+                        "codes": "WORMROOMKEY"
+                    },
+                    
+                    {
+                        "name": "BRIDGEKEY",
+                        "type": "toggle",
+                        "img": "/images/Items/BRIDGEKEY.png",
+                        "codes": "BRIDGEKEY"
+                    },
+                    
+                    {
+                        "name": "STEMCELL",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/STEMCELL.png",
+                        "overlay_background": "#000000",
+                        "codes": "STEMCELL"
+                    },
+                    {
+                        "name": "UPPERCHAMBERKEY",
+                        "type": "toggle",
+                        "img": "/images/Items/UPPERCHAMBERKEY.png",
+                        "codes": "UPPERCHAMBERKEY"
+                    },
+                    
+                    {
+                        "name": "VESSELROOMKEY",
+                        "type": "toggle",
+                        "img": "/images/Items/VESSELROOMKEY.png",
+                        "codes": "VESSELROOMKEY"
+                    },
+                    
+                    {
+                        "name": "CLOUDGERM",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/CLOUDGERM.png",
+                        "overlay_background": "#000000",
+                        "codes": "CLOUDGERM"
+                    },
+                    {
+                        "name": "SKULLBOMB",
+                        "type": "toggle",
+                        "img": "/images/Items/SKULLBOMB.png",
+                        "codes": "SKULLBOMB"
+                    },
+                    
+                    {
+                        "name": "TOWERKEY",
+                        "type": "toggle",
+                        "img": "/images/Items/TOWERKEY.png",
+                        "codes": "TOWERKEY"
+                    },
+                    
+                    {
+                        "name": "DEEPKEY",
+                        "type": "toggle",
+                        "img": "/images/Items/DEEPKEY.png",
+                        "codes": "DEEPKEY"
+                    },
+                    
+                    {
+                        "name": "MULTI-COFFEE",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/MULTI-COFFEE.png",
+                        "overlay_background": "#000000",
+                        "codes": "MULTI-COFFEE"
+                    },
+                    {
+                        "name": "MULTI-JUICE",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/MULTI-JUICE.png",
+                        "overlay_background": "#000000",
+                        "codes": "MULTI-JUICE"
+                    },
+                    {
+                        "name": "MULTISTEMCELL",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/MULTISTEMCELL.png",
+                        "overlay_background": "#000000",
+                        "codes": "MULTISTEMCELL"
+                    },
+                    {
+                        "name": "MULTISOULSPONGE",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/MULTISOULSPONGE.png",
+                        "overlay_background": "#000000",
+                        "codes": "MULTISOULSPONGE"
+                    },
+                    {
+                        "name": "UPPERHOUSEKEY",
+                        "type": "toggle",
+                        "img": "/images/Items/UPPERHOUSEKEY.png",
+                        "codes": "UPPERHOUSEKEY"
+                    },
+                    
+                    {
+                        "name": "BOTTOMLESSJUICE",
+                        "type": "toggle",
+                        "img": "/images/Items/BOTTOMLESSJUICE.png",
+                        "codes": "BOTTOMLESSJUICE"
+                    },
+
+                    {
+                        "name": "SAGETOKEN",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 3,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/SAGETOKEN.png",
+                        "overlay_background": "#000000",
+                        "codes": "SAGETOKEN"
+                    },
+                    
+                    {
+                        "name": "CLICKER",
+                        "type": "toggle",
+                        "img": "/images/Items/CLICKER.png",
+                        "codes": "CLICKER"
+                    },
+                    
+                    {
+                        "name": "CURSEDGLOVES",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/CURSEDGLOVES.png",
+                        "overlay_background": "#000000",
+                        "codes": "CURSEDGLOVES"
+                    },
+                    {
+                        "name": "LONGGLOVES",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/LONGGLOVES.png",
+                        "overlay_background": "#000000",
+                        "codes": "LONGGLOVES"
+                    },
+                    {
+                        "name": "BRAINDIGITS",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/BRAINDIGITS.png",
+                        "overlay_background": "#000000",
+                        "codes": "BRAINDIGITS"
+                    },
+                    {
+                        "name": "MATERIELMITTS",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/MATERIELMITTS.png",
+                        "overlay_background": "#000000",
+                        "codes": "MATERIELMITTS"
+                    },
+                    {
+                        "name": "PLEATHERGAGE",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/PLEATHERGAGE.png",
+                        "overlay_background": "#000000",
+                        "codes": "PLEATHERGAGE"
+                    },
+                    {
+                        "name": "PEPTIDEBODKINS",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/PEPTIDEBODKINS.png",
+                        "overlay_background": "#000000",
+                        "codes": "PEPTIDEBODKINS"
+                    },
+                    {
+                        "name": "TELESCOPICSLEEVE",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/TELESCOPICSLEEVE.png",
+                        "overlay_background": "#000000",
+                        "codes": "TELESCOPICSLEEVE"
+                    },
+                    {
+                        "name": "TENDRILHAND",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/TENDRILHAND.png",
+                        "overlay_background": "#000000",
+                        "codes": "TENDRILHAND"
+                    },
+                    {
+                        "name": "PSYCHICKNUCKLE",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/PSYCHICKNUCKLE.png",
+                        "overlay_background": "#000000",
+                        "codes": "PSYCHICKNUCKLE"
+                    },
+                    {
+                        "name": "SINGLEGLOVE",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/SINGLEGLOVE.png",
+                        "overlay_background": "#000000",
+                        "codes": "SINGLEGLOVE"
+                    },
+                    {
+                        "name": "FADEDPONCHO",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/FADEDPONCHO.png",
+                        "overlay_background": "#000000",
+                        "codes": "FADEDPONCHO"
+                    },
+                    {
+                        "name": "JUMPSUIT",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/JUMPSUIT.png",
+                        "overlay_background": "#000000",
+                        "codes": "JUMPSUIT"
+                    },
+                    {
+                        "name": "BOOTS",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/BOOTS.png",
+                        "overlay_background": "#000000",
+                        "codes": "BOOTS"
+                    },
+                    {
+                        "name": "CONVERTERWORM",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/CONVERTERWORM.png",
+                        "overlay_background": "#000000",
+                        "codes": "CONVERTERWORM"
+                    },
+                    {
+                        "name": "COFFEECHIP",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/COFFEECHIP.png",
+                        "overlay_background": "#000000",
+                        "codes": "COFFEECHIP"
+                    },
+                    {
+                        "name": "RANCHERPONCHO",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/RANCHERPONCHO.png",
+                        "overlay_background": "#000000",
+                        "codes": "RANCHERPONCHO"
+                    },
+                    {
+                        "name": "ORGANFORT",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/ORGANFORT.png",
+                        "overlay_background": "#000000",
+                        "codes": "ORGANFORT"
+                    },
+                    {
+                        "name": "LOOPEDDOME",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/LOOPEDDOME.png",
+                        "overlay_background": "#000000",
+                        "codes": "LOOPEDDOME"
+                    },
+                    {
+                        "name": "DUCTILEHABIT",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/DUCTILEHABIT.png",
+                        "overlay_background": "#000000",
+                        "codes": "DUCTILEHABIT"
+                    },
+                    {
+                        "name": "TARP",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/TARP.png",
+                        "overlay_background": "#000000",
+                        "codes": "TARP"
+                    },
+                    {
+                        "name": "100Bones",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/100Bones.png",
+                        "overlay_background": "#000000",
+                        "codes": "100Bones"
+                    },
+                    {
+                        "name": "50Bones",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/50Bones.png",
+                        "overlay_background": "#000000",
+                        "codes": "50Bones"
+                    },
+                    {
+                        "name": "POROMERBLEB",
+                        "type": "toggle",
+                        "img": "/images/Items/POROMERBLEB.png",
+                        "codes": "POROMERBLEB"
+                    },
+                    
+                    {
+                        "name": "SOULCRISPER",
+                        "type": "toggle",
+                        "img": "/images/Items/SOULCRISPER.png",
+                        "codes": "SOULCRISPER"
+                    },
+                    
+                    {
+                        "name": "TIMESIGIL",
+                        "type": "toggle",
+                        "img": "/images/Items/TIMESIGIL.png",
+                        "codes": "TIMESIGIL"
+                    },
+                    
+                    {
+                        "name": "CHARGEUP",
+                        "type": "toggle",
+                        "img": "/images/Items/CHARGEUP.png",
+                        "codes": "CHARGEUP"
+                    },
+                    
+                    {
+                        "name": "FATESANDBOX",
+                        "type": "toggle",
+                        "img": "/images/Items/FATESANDBOX.png",
+                        "codes": "FATESANDBOX"
+                    },
+                    
+                    {
+                        "name": "TELEDENUDATE",
+                        "type": "toggle",
+                        "img": "/images/Items/TELEDENUDATE.png",
+                        "codes": "TELEDENUDATE"
+                    },
+                    
+                    {
+                        "name": "LINKMOLLUSC",
+                        "type": "toggle",
+                        "img": "/images/Items/LINKMOLLUSC.png",
+                        "codes": "LINKMOLLUSC"
+                    },
+                    
+                    {
+                        "name": "BOMBO-GENESIS",
+                        "type": "toggle",
+                        "img": "/images/Items/BOMBO-GENESIS.png",
+                        "codes": "BOMBO-GENESIS"
+                    },
+                    
+                    {
+                        "name": "NEMATODEINTERFACE",
+                        "type": "toggle",
+                        "img": "/images/Items/NEMATODEINTERFACE.png",
+                        "codes": "NEMATODEINTERFACE"
+                    },
+                    
+                    {
+                        "name": "Pongorma",
+                        "type": "toggle",
+                        "img": "/images/Items/Pongorma.png",
+                        "codes": "Pongorma"
+                    },
+                    
+                    {
+                        "name": "Dedusmuln",
+                        "type": "toggle",
+                        "img": "/images/Items/Dedusmuln.png",
+                        "codes": "Dedusmuln"
+                    },
+                    
+                    {
+                        "name": "Somsnosa",
+                        "type": "toggle",
+                        "img": "/images/Items/Somsnosa.png",
+                        "codes": "Somsnosa"
+                    },
+                    
+                    {
+                        "name": "10Bones",
+                        "type": "consumable",
+                        "allow_disabled": false,
+                        "min_quantity": 0,
+                        "max_quantity": 10,
+                        "increment": 1,
+                        "initial_quantity": 0,
+                        "img": "/images/Items/10Bones.png",
+                        "overlay_background": "#000000",
+                        "codes": "10Bones"
+                    },
+            {
+            }
+        ]

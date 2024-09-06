@@ -1,0 +1,625 @@
+[
+                    {
+                        "name": "New Muldul",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+                        "children": [
+                    
+                    {
+                        "name": "General Shop",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Shop Ceiling Pot 1",
+                                "item_count": 1
+                            },
+                        
+                            {
+                                "name": "Shop Ceiling Pot 2",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "New Muldul General Shop",
+                                    "x": 316,
+                                    "y": 117,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "New Muldul",
+                                    "x": 196,
+                                    "y": 612,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Flag Banana",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Flag Banana",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "New Muldul",
+                                    "x": 358,
+                                    "y": 386,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Pot near Vault",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Pot near Vault",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "New Muldul",
+                                    "x": 1030,
+                                    "y": 491,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Pot above Vault",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Pot above Vault",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "New Muldul",
+                                    "x": 838,
+                                    "y": 174,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "New Muldul Palace Entrance",
+                                    "x": 442,
+                                    "y": 26,
+                                    "size": 12
+                                },
+                                
+                            ]
+                            },
+                    {
+                        "name": "Underground",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+                        "children": [
+                    
+                    {
+                        "name": "Underground Pot",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Underground Pot",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "New Muldul Underground",
+                                    "x": 887,
+                                    "y": 694,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                                ],
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Juice Trade",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "New Muldul Underground",
+                                    "x": 1573,
+                                    "y": 954,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Glove Shop",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Underground Chest",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "New Muldul Glove Shop",
+                                    "x": 134,
+                                    "y": 643,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "New Muldul",
+                                    "x": 858,
+                                    "y": 611,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Upper House",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+                        "children": [
+                    
+                    {
+                        "name": "Basement",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Basement Suitcase",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "New Muldul Upper House",
+                                    "x": 404,
+                                    "y": 987,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "New Muldul",
+                                    "x": 542,
+                                    "y": 544,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "After Slide",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Upper House Chest 1",
+                                "item_count": 1
+                            },
+                        
+                            {
+                                "name": "Upper House Chest 2",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "New Muldul",
+                                    "x": 450,
+                                    "y": 408,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "New Muldul Upper House",
+                                    "x": 577,
+                                    "y": 763,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                                ],
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Upper House Medallion",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "New Muldul",
+                                    "x": 480,
+                                    "y": 408,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "New Muldul Upper House",
+                                    "x": 392,
+                                    "y": 93,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Palace",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+                        "children": [
+                    
+                    {
+                        "name": "Pongorma",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Talk to Pongorma",
+                                "item_count": 1
+                            },
+                        
+                            {
+                                "name": "Pongorma Joins",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "New Muldul",
+                                    "x": 803,
+                                    "y": 338,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "New Muldul Palace Entrance",
+                                    "x": 398,
+                                    "y": 812,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                                ],
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Rescued Blerol 1",
+                                "item_count": 1
+                            },
+                        
+                            {
+                                "name": "Rescued Blerol 2",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "New Muldul",
+                                    "x": 833,
+                                    "y": 338,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "New Muldul Palace Entrance",
+                                    "x": 373,
+                                    "y": 465,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Vault",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+                        "children": [
+                    
+                    {
+                        "name": "Vault Left Chest",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Vault Left Chest",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "New Muldul Palace Vault",
+                                    "x": 382,
+                                    "y": 175,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Vault Right Chest",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Vault Right Chest",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "New Muldul Palace Vault",
+                                    "x": 809,
+                                    "y": 177,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Vault Rear Left Medallion",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Vault Rear Left Medallion",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "New Muldul Palace Vault",
+                                    "x": 84,
+                                    "y": 181,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Vault Rear Right Medallion",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Vault Rear Right Medallion",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "New Muldul Palace Vault",
+                                    "x": 1095,
+                                    "y": 172,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Vault Center Medallion",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Vault Center Medallion",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "New Muldul Palace Vault",
+                                    "x": 588,
+                                    "y": 206,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Vault Front Left Medallion",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Vault Front Left Medallion",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "New Muldul Palace Vault",
+                                    "x": 400,
+                                    "y": 511,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Vault Front Right Medallion",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Vault Front Right Medallion",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "New Muldul Palace Vault",
+                                    "x": 793,
+                                    "y": 529,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                                ],
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Vault Bomb",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "New Muldul",
+                                    "x": 863,
+                                    "y": 338,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "New Muldul Palace Vault",
+                                    "x": 589,
+                                    "y": 373,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Behind House Key",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "TV",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "New Muldul",
+                                    "x": 527,
+                                    "y": 688,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                                ],},
+                                
+                            ]

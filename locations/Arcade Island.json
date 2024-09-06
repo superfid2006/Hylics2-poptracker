@@ -1,0 +1,27 @@
+[
+                    {
+                        "name": "Arcade Island",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Shielded Key",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Arcade Island",
+                                    "x": 801,
+                                    "y": 119,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                            ]

@@ -1,0 +1,958 @@
+{
+            "tabbed_maps_horizontal": {
+            "type": "tabbed",
+            "tabs": [
+            
+                {
+                    "title": "Overworld",
+                    "content": {
+                        "type": "map",
+                        "maps": [
+                            "Overworld"
+                        ]
+                    }
+                
+                },
+                {
+                    "title": "Waynehouse",
+                    "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                          {
+                            "title": "Waynehouse",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Waynehouse"
+                            ]
+                            }
+                          },   
+                          {
+                            "title": "Inside",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Waynehouse Inside"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Basement",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Waynehouse Basement"
+                            ]
+                            }
+                          }                         
+                    ]
+                    }
+                
+                },
+                {
+                    "title": "Afterlife",
+                    "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                          {
+                            "title": "Afterlife",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Afterlife"
+                            ]
+                            }
+                          },   
+                          {
+                            "title": "Cave Key Cave",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Afterlife Cave"
+                            ]
+                            }
+                          }
+                    ]
+                    }
+                
+                },
+                {
+                    "title": "New Muldul",
+                    "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                          {
+                            "title": "Outside",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "New Muldul"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "General Shop",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "New Muldul General Shop"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Underground",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "New Muldul Underground"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Upper House",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "New Muldul Upper House"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Glove Shop",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "New Muldul Glove Shop"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Palace Entrance",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "New Muldul Palace Entrance"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Inside Vault",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "New Muldul Palace Vault"
+                            ]
+                            }
+                          }
+                    ]
+                    }
+                
+                },
+                {
+                    "title": "Viewax's Edifice",
+                    "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                          {
+                            "title": "Outside Fort",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Viewax's Edifice Outside Fort"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Jail",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Viewax's Edifice Jail"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Below Jail",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Viewax's Edifice Below Jail"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Infiltrated",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Viewax's Edifice"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Arcade Cave",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Viewax's Edifice Arcade Cave"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Sage Room",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Viewax's Edifice Sage Room"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Viewax's Throne Room",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Viewax's Edifice Throne Room"
+                            ]
+                            }
+                          }
+                    ]
+                    }
+                },
+                {
+                    "title": "Arcade 1",
+                    "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                          {
+                            "title": "Full Map",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Arcade 1"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Left",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Arcade 1 - Left"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Middle",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Arcade 1 - Middle"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Right",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Arcade 1 - Right"
+                            ]
+                            }
+                          }
+                    ]
+                    }
+                },
+                {
+                    "title": "Airship",
+                    "content": {
+                        "type": "map",
+                        "maps": [
+                            "Airship"
+                        ]
+                    }
+                },
+                {
+                    "title": "TV Island",
+                    "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                          {
+                            "title": "Outside",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "TV Island"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Inside",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "TV Island Inside"
+                            ]
+                            }
+                          }
+                    ]
+                    }
+                },
+                {
+                    "title": "Juice Ranch",
+                    "content": {
+                        "type": "map",
+                        "maps": [
+                            "Juice Ranch"
+                        ]
+                    }
+                
+                },
+                {
+                    "title": "Foglast",
+                    "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                          {
+                            "title": "Full",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Foglast"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Entrance Mountain",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Foglast Entrance Mountain"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Curved Path",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Foglast Curved Path"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "TV Mountain",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Foglast TV Mountain"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Bridge Mountain",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Foglast Bridge Mountain"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Lair",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Foglast Lair"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Far Back",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Foglast Far Back"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Entrance Mountain - Inside",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Foglast Inside Entrance Mountain"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Curved Path - Below",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Foglast Inside Curved Path"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Bridge Mountain - Shield Room",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Foglast Inside Bridge Mountain - Shield Room"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Bridge Mountain - Shop Near Bridge",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Foglast Inside Bridge Mountain - Shop Near Bridge"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Inside Lair",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Foglast Inside Lair"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Below Lair",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Foglast Under Lair"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Fridge Cave",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Foglast Fridge Cave"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Sage Room",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Foglast Sage Room"
+                            ]
+                            }
+                          }
+                    ]
+                    }
+                },
+                {
+                    "title": "Arcade 2",
+                    "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                          {
+                            "title": "Arcade Island",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Arcade Island"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Full",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Arcade 2"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Starting Island",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Arcade 2 - Left"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Airships",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Arcade 2 - Middle"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Goal Island",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Arcade 2 - Right"
+                            ]
+                            }
+                          }
+                    ]
+                    }
+                },
+                {
+                    "title": "Drill Castle",
+                    "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                          {
+                            "title": "Outside",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Drill Castle"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Inside",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Drill Castle Inside"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Paradox Cave",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Drill Castle Paradox Cave"
+                            ]
+                            }
+                          }
+                    ]
+                    }
+                },
+                {
+                    "title": "Sage Labyrinth",
+                    "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                          {
+                            "title": "Legend",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Sage Labyrinth"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "1F-1",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Sage Labyrinth 1F-1"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "1F-2",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Sage Labyrinth 1F-2"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "1F-3",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Sage Labyrinth 1F-3"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "2F",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Sage Labyrinth 2F"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "B1",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Sage Labyrinth B1"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "B2",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Sage Labyrinth B2"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "B3",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Sage Labyrinth B3"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "B4",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Sage Labyrinth B4"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Sage Beach",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Sage Labyrinth Sage Beach"
+                            ]
+                            }
+                          }
+                    ]
+                    }
+                },
+                {
+                    "title": "Sage Airship",
+                    "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                          {
+                            "title": "Front",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Sage Airship"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Back",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Sage Airship Back"
+                            ]
+                            }
+                          },                          {
+                            "title": "Lower Floor",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Sage Airship Lower Floor"
+                            ]
+                            }
+                          },                          {
+                            "title": "Upper Floor",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Sage Airship Upper Floor"
+                            ]
+                            }
+                          }
+                    ]
+                    }
+                },
+                {
+                    "title": "Hylemxylem",
+                    "content": {
+                        "type": "tabbed",
+                        "tabs": [
+                          {
+                            "title": "Full",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Hylemxylem"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Outside Entrance",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Hylemxylem Outside Entrance"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Inside Entrance",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Hylemxylem Inside Entrance"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Outside Upper Floor",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Hylemxylem Outside Upper Floor"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Side Path",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Hylemxylem Side Path"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "East Building",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Hylemxylem East Building"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Inside Upper Floor",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Hylemxylem Inside Upper Floor"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Upper Reservoir",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Hylemxylem Upper Reservoir"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Upper Reservoir Hole",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Hylemxylem Upper Reservoir Hole"
+                            ]
+                            }
+                          },
+                          {
+                            "title": "Lower Reservoir Hole",
+                            "content": {
+                            "type": "map",
+                            "maps": [
+                            "Hylemxylem Lower Reservoir Hole"
+                            ]
+                            }
+                          }
+                    ]
+                    }
+                },
+            ]
+        },
+            "tabbed_maps_vertical": {
+            "type": "tabbed",
+            "tabs": [
+            
+                {
+                    "title": "Overworld",
+                    "content": {
+                        "type": "map",
+                        "maps": [
+                            "Overworld"
+                        ]
+                    }
+                
+                },
+                {
+                    "title": "Afterlife",
+                    "content": {
+                        "type": "map",
+                        "maps": [
+                            "Afterlife"
+                        ]
+                    }
+                
+                },
+                {
+                    "title": "Airship",
+                    "content": {
+                        "type": "map",
+                        "maps": [
+                            "Airship"
+                        ]
+                    }
+                
+                },
+                {
+                    "title": "Arcade 1",
+                    "content": {
+                        "type": "map",
+                        "maps": [
+                            "Arcade 1"
+                        ]
+                    }
+                
+                },
+                {
+                    "title": "Arcade 2",
+                    "content": {
+                        "type": "map",
+                        "maps": [
+                            "Arcade 2"
+                        ]
+                    }
+                
+                },
+                {
+                    "title": "Arcade Island",
+                    "content": {
+                        "type": "map",
+                        "maps": [
+                            "Arcade Island"
+                        ]
+                    }
+                
+                },
+                {
+                    "title": "Drill Castle",
+                    "content": {
+                        "type": "map",
+                        "maps": [
+                            "Drill Castle"
+                        ]
+                    }
+                
+                },
+                {
+                    "title": "Foglast",
+                    "content": {
+                        "type": "map",
+                        "maps": [
+                            "Foglast"
+                        ]
+                    }
+                
+                },
+                {
+                    "title": "Hylemxylem",
+                    "content": {
+                        "type": "map",
+                        "maps": [
+                            "Hylemxylem"
+                        ]
+                    }
+                
+                },
+                {
+                    "title": "Juice Ranch",
+                    "content": {
+                        "type": "map",
+                        "maps": [
+                            "Juice Ranch"
+                        ]
+                    }
+                
+                },
+                {
+                    "title": "New Muldul",
+                    "content": {
+                        "type": "map",
+                        "maps": [
+                            "New Muldul"
+                        ]
+                    }
+                
+                },
+                {
+                    "title": "Sage Airship",
+                    "content": {
+                        "type": "map",
+                        "maps": [
+                            "Sage Airship"
+                        ]
+                    }
+                
+                },
+                {
+                    "title": "Sage Labyrinth",
+                    "content": {
+                        "type": "map",
+                        "maps": [
+                            "Sage Labyrinth"
+                        ]
+                    }
+                
+                },
+                {
+                    "title": "TV Island",
+                    "content": {
+                        "type": "map",
+                        "maps": [
+                            "TV Island"
+                        ]
+                    }
+                
+                },
+                {
+                    "title": "Viewax's Edifice",
+                    "content": {
+                        "type": "map",
+                        "maps": [
+                            "Viewax's Edifice"
+                        ]
+                    }
+                
+                },
+                {
+                    "title": "Waynehouse",
+                    "content": {
+                        "type": "map",
+                        "maps": [
+                            "Waynehouse"
+                        ]
+                    }
+                
+                },
+                {
+                    "title": "Worm Pod",
+                    "content": {
+                        "type": "map",
+                        "maps": [
+                            "Worm Pod"
+                        ]
+                    }
+                
+                }
+            ]
+        }
+    }

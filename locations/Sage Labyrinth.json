@@ -1,0 +1,521 @@
+[
+                    {
+                        "name": "Sage Labyrinth",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+                        "children": [
+                    
+                    {
+                        "name": "1F",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+                        "children": [
+                    
+                    {
+                        "name": "Patrol Jumpscare",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Chest Near Fountain",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Overworld",
+                                    "x": 710,
+                                    "y": 148,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Hidden Sarcophagus",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Hidden Sarcophagus",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Overworld",
+                                    "x": 1778,
+                                    "y": 193,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Four Statues Room",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+                        "children": [
+                    
+                    {
+                        "name": "Four Statues Chest 1",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Four Statues Chest 1",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Overworld",
+                                    "x": 2283,
+                                    "y": 531,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Four Statues Chest 2",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Four Statues Chest 2",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Overworld",
+                                    "x": 1037,
+                                    "y": 1218,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                                ],},
+                                
+                                ],},
+                                
+                    {
+                        "name": "B1",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+                        "children": [
+                    
+                    {
+                        "name": "Double Chest",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Double Chest 1",
+                                "item_count": 1
+                            },
+                        
+                            {
+                                "name": "Double Chest 2",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Overworld",
+                                    "x": 65,
+                                    "y": 119,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Single Chest",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Single Chest",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Overworld",
+                                    "x": 1370,
+                                    "y": 219,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Patrol disappears when changing floors",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Enemy Chest",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Overworld",
+                                    "x": 1867,
+                                    "y": 1080,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Hidden Sarcophagus",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Hidden Sarcophagus",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Overworld",
+                                    "x": 138,
+                                    "y": 259,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                                ],
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Hole Chest",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Overworld",
+                                    "x": 2338,
+                                    "y": 1004,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "B2",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+                        "children": [
+                    
+                    {
+                        "name": "Hidden Sarcophagus 1",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Hidden Sarcophagus 1",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Overworld",
+                                    "x": 2049,
+                                    "y": 986,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Hidden Sarcophagus 2",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Hidden Sarcophagus 2",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Overworld",
+                                    "x": 1978,
+                                    "y": 728,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                                ],},
+                                
+                    {
+                        "name": "2F",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Sarcophagus",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Overworld",
+                                    "x": 530,
+                                    "y": 1372,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "B3",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+                        "children": [
+                    
+                    {
+                        "name": "Boss Secret Chest 1",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Boss Secret Chest 1",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Overworld",
+                                    "x": 1558,
+                                    "y": 1266,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Boss Secret Chest 2",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Boss Secret Chest 2",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Overworld",
+                                    "x": 858,
+                                    "y": 799,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                                ],},
+                                
+                    {
+                        "name": "B4",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Motor Hunter Sarcophagus",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Overworld",
+                                    "x": 716,
+                                    "y": 1441,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Sage Room",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+                        "children": [
+                    
+                    {
+                        "name": "Talk to Sage",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Sage Item 1",
+                                "item_count": 1
+                            },
+                        
+                            {
+                                "name": "Sage Item 2",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Overworld",
+                                    "x": 219,
+                                    "y": 1120,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                    {
+                        "name": "Eat the Sage",
+                        "chest_unopened_img": "/images/Items/close.png",
+                        "chest_opened_img": "/images/Items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [" "],
+                        
+
+                                        "sections": [
+                                    
+                            {
+                                "name": "Sage Left Arm",
+                                "item_count": 1
+                            },
+                        
+                            {
+                                "name": "Sage Right Arm",
+                                "item_count": 1
+                            },
+                        
+                            {
+                                "name": "Sage Left Leg",
+                                "item_count": 1
+                            },
+                        
+                            {
+                                "name": "Sage Right Leg",
+                                "item_count": 1
+                            }
+                        
+                            ],
+                            "map_locations": [
+                                {
+                                    "map": "Overworld",
+                                    "x": 1027,
+                                    "y": 1336,
+                                    "size": 12
+                                }
+                            ]
+                            },
+                                ],},
+                                
+                                ],},
+                                
+                            ]
