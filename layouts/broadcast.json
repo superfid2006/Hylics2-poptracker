@@ -12,7 +12,19 @@
                     "content": [
                         {
                             "type": "layout",
-                            "key": "shared_item_grid_vertical"
+                            "key": "shared_key_grid_vertical"
+                         },
+                         {
+                            "type": "layout",
+                            "key": "shared_major_grid_vertical"
+                         },
+                         {
+                            "type": "layout",
+                            "key": "shared_gesture_grid_vertical"
+                         },
+                         {
+                            "type": "layout",
+                            "key": "shared_party_grid_vertical"
                          }
                     ]
                 }
