@@ -33,7 +33,7 @@
                                         {
                                             "name": "Afterlife - Jar under Pool",
                                             "ref": "Afterlife/Jar under Pool"
-                                        },
+                                        }
                                     
                                     ],
                                     "map_locations": [
@@ -57,7 +57,7 @@
                                         {
                                             "name": "After Shield Facility - Talk to Somsnosa",
                                             "ref": "After Shield Facility/Talk to Somsnosa"
-                                        },
+                                        }
                                     
                                     ],
                                     "map_locations": [
@@ -131,7 +131,7 @@
                                         {
                                             "name": "Lava Medallion - Lava Medallion",
                                             "ref": "Lava Medallion/Lava Medallion"
-                                        },
+                                        }
                                     
                                     ],
                                     "map_locations": [
@@ -205,7 +205,7 @@
                                         {
                                             "name": "Flag Medallion - Flag Medallion",
                                             "ref": "Flag Medallion/Flag Medallion"
-                                        },
+                                        }
                                     
                                     ],
                                     "map_locations": [
@@ -229,7 +229,7 @@
                                         {
                                             "name": "Arcade Island - Shielded Key",
                                             "ref": "Arcade Island/Shielded Key"
-                                        },
+                                        }
                                     
                                     ],
                                     "map_locations": [
@@ -278,7 +278,7 @@
                                         {
                                             "name": "Drill Castle - Roof Banana",
                                             "ref": "Drill Castle/Roof Banana"
-                                        },
+                                        }
                                     
                                     ],
                                     "map_locations": [
@@ -382,7 +382,7 @@
                                         {
                                             "name": "Above Entrance Mountain - Top of Tower Medallion",
                                             "ref": "Above Entrance Mountain/Top of Tower Medallion"
-                                        },
+                                        }
                                     
                                     ],
                                     "map_locations": [
@@ -511,7 +511,7 @@
                                         {
                                             "name": "Below Upper Reservoir - Upper Reservoir Hole Key",
                                             "ref": "Below Upper Reservoir/Upper Reservoir Hole Key"
-                                        },
+                                        }
                                     
                                     ],
                                     "map_locations": [
@@ -570,7 +570,7 @@
                                         {
                                             "name": "Juice Ranch - Ledge Rancher",
                                             "ref": "Juice Ranch/Ledge Rancher"
-                                        },
+                                        }
                                     
                                     ],
                                     "map_locations": [
@@ -714,7 +714,7 @@
                                         {
                                             "name": "Behind House Key - TV",
                                             "ref": "Behind House Key/TV"
-                                        },
+                                        }
                                     
                                     ],
                                     "map_locations": [
@@ -783,7 +783,7 @@
                                         {
                                             "name": "Behind Ship - Hidden Medallion 3",
                                             "ref": "Behind Ship/Hidden Medallion 3"
-                                        },
+                                        }
                                     
                                     ],
                                     "map_locations": [
@@ -912,7 +912,7 @@
                                         {
                                             "name": "Eat the Sage - Sage Right Leg",
                                             "ref": "Eat the Sage/Sage Right Leg"
-                                        },
+                                        }
                                     
                                     ],
                                     "map_locations": [
@@ -936,7 +936,7 @@
                                         {
                                             "name": "Inside - TV",
                                             "ref": "Inside/TV"
-                                        },
+                                        }
                                     
                                     ],
                                     "map_locations": [
@@ -1055,7 +1055,7 @@
                                         {
                                             "name": "Viewax's Edifice - Canopic Jar",
                                             "ref": "Viewax's Edifice/Canopic Jar"
-                                        },
+                                        }
                                     
                                     ],
                                     "map_locations": [
@@ -1104,7 +1104,7 @@
                                         {
                                             "name": "Waynehouse - Sarcophagus",
                                             "ref": "Waynehouse/Sarcophagus"
-                                        },
+                                        }
                                     
                                     ],
                                     "map_locations": [
@@ -1128,7 +1128,7 @@
                                         {
                                             "name": "Worm Pod - Key",
                                             "ref": "Worm Pod/Key"
-                                        },
+                                        }
                                     
                                     ],
                                     "map_locations": [
@@ -1139,7 +1139,7 @@
                                             "size": 12
                                         }
                                     ]
-                                    },
+                                    }
                                     
                                 ]
                 }

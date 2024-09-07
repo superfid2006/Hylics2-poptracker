@@ -90,7 +90,7 @@
                                     "size": 12
                                 }
                             ]
-                            },
+                            }
                                 ],
 
                                         "sections": [
@@ -272,8 +272,8 @@
                                     "size": 12
                                 }
                             ]
-                            },
-                                ],},
+                            }
+                                ]},
                                 
                     {
                         "name": "Upper Chamber past door",
@@ -320,7 +320,7 @@
                                     "size": 12
                                 }
                             ]
-                            },
+                            }
                                 ],
 
                                         "sections": [
@@ -414,8 +414,8 @@
                                     "size": 12
                                 }
                             ]
-                            },
-                                ],},
+                            }
+                                ]},
                                 
                     {
                         "name": "Drained Lower Reservoir",
@@ -500,8 +500,8 @@
                                     "size": 12
                                 }
                             ]
-                            },
-                                ],},
+                            }
+                                ]},
                                 
                     {
                         "name": "Lower Reservoir Hole",
@@ -596,8 +596,8 @@
                                     "size": 12
                                 }
                             ]
-                            },
-                                ],},
+                            }
+                                ]},
                                 
                     {
                         "name": "Below Upper Reservoir",
@@ -629,7 +629,7 @@
                                     "size": 12
                                 }
                             ]
-                            },
-                                ],},
+                            }
+                                ]}
                                 
                             ]
