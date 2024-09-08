@@ -2,7 +2,7 @@
 {
     "name": "Hylics 2 Archipelago",
     "game_name": "Hylics 2",
-    "package_version": "0.0.1",
+    "package_version": "0.0.2",
     "package_uid": "hylics 2_ap",
     "author": "superfid2006",
     "variants": {
@@ -10,6 +10,6 @@
             "display_name": "Map Tracker",
             "flags": ["ap"]
         }
-    }
-    // "versions_url": "https://raw.githubusercontent.com/StripesOO7/alttp-ap-poptracker-pack/versions/versions.json"
+    },
+    "versions_url": "https://github.com/superfid2006/Hylics2-poptracker/raw/main/versions.json"
 }
