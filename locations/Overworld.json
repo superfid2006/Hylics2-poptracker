@@ -39,8 +39,8 @@
                                     "map_locations": [
                                         {
                                             "map": "Overworld",
-                                            "x": 2119,
-                                            "y": 1272,
+                                            "x": 1010,
+                                            "y": 1130,
                                             "size": 12
                                         }
                                     ]
@@ -63,8 +63,8 @@
                                     "map_locations": [
                                         {
                                             "map": "Overworld",
-                                            "x": 1342,
-                                            "y": 946,
+                                            "x": 1040,
+                                            "y": 1130,
                                             "size": 12
                                         }
                                     ]
@@ -137,8 +137,8 @@
                                     "map_locations": [
                                         {
                                             "map": "Overworld",
-                                            "x": 858,
-                                            "y": 565,
+                                            "x": 585,
+                                            "y": 228,
                                             "size": 12
                                         }
                                     ]
@@ -152,6 +152,11 @@
                                     "access_rules": [" "],
                                     "sections": [
                                     
+                                        {
+                                            "name": "Arcade Island - Shielded Key",
+                                            "ref": "Arcade Island/Shielded Key"
+                                        },
+
                                         {
                                             "name": "Flying Machine Banana - Flying Machine Banana",
                                             "ref": "Flying Machine Banana/Flying Machine Banana"
@@ -219,30 +224,6 @@
                                     },
                                     
                                 {
-                                    "name": "Arcade Island",
-                                    "chest_unopened_img": "/images/Items/close.png",
-                                    "chest_opened_img": "/images/Items/open.png",
-                                    "overlay_background": "#000000",
-                                    "access_rules": [" "],
-                                    "sections": [
-                                    
-                                        {
-                                            "name": "Arcade Island - Shielded Key",
-                                            "ref": "Arcade Island/Shielded Key"
-                                        }
-                                    
-                                    ],
-                                    "map_locations": [
-                                        {
-                                            "map": "Overworld",
-                                            "x": 983,
-                                            "y": 392,
-                                            "size": 12
-                                        }
-                                    ]
-                                    },
-                                    
-                                {
                                     "name": "Drill Castle",
                                     "chest_unopened_img": "/images/Items/close.png",
                                     "chest_opened_img": "/images/Items/open.png",
@@ -284,8 +265,8 @@
                                     "map_locations": [
                                         {
                                             "map": "Overworld",
-                                            "x": 788,
-                                            "y": 694,
+                                            "x": 123,
+                                            "y": 587,
                                             "size": 12
                                         }
                                     ]
@@ -388,8 +369,8 @@
                                     "map_locations": [
                                         {
                                             "map": "Overworld",
-                                            "x": 1779,
-                                            "y": 21,
+                                            "x": 467,
+                                            "y": 1062,
                                             "size": 12
                                         }
                                     ]
@@ -402,6 +383,11 @@
                                     "overlay_background": "#000000",
                                     "access_rules": [" "],
                                     "sections": [
+
+                                        {
+                                            "name": "Defeat Gibby",
+                                            "ref": "Defeat Gibby/GIBBYYYYYYYY!"
+                                        },
                                     
                                         {
                                             "name": "Lower Reservoir Key - Lower Reservoir Key",
@@ -517,8 +503,8 @@
                                     "map_locations": [
                                         {
                                             "map": "Overworld",
-                                            "x": 1330,
-                                            "y": 1322,
+                                            "x": 449,
+                                            "y": 708,
                                             "size": 12
                                         }
                                     ]
@@ -576,8 +562,8 @@
                                     "map_locations": [
                                         {
                                             "map": "Overworld",
-                                            "x": 860,
-                                            "y": 1491,
+                                            "x": 113,
+                                            "y": 255,
                                             "size": 12
                                         }
                                     ]
@@ -720,8 +706,8 @@
                                     "map_locations": [
                                         {
                                             "map": "Overworld",
-                                            "x": 2202,
-                                            "y": 1458,
+                                            "x": 309,
+                                            "y": 539,
                                             "size": 12
                                         }
                                     ]
@@ -789,8 +775,8 @@
                                     "map_locations": [
                                         {
                                             "map": "Overworld",
-                                            "x": 535,
-                                            "y": 546,
+                                            "x": 239,
+                                            "y": 824,
                                             "size": 12
                                         }
                                     ]
@@ -810,9 +796,15 @@
                                         },
                                     
                                         {
-                                            "name": "Hidden Sarcophagus - Hidden Sarcophagus",
-                                            "ref": "Hidden Sarcophagus/Hidden Sarcophagus"
+                                            "name": "Hidden Sarcophagus 1F - Hidden Sarcophagus",
+                                            "ref": "Hidden Sarcophagus 1F/Hidden Sarcophagus"
                                         },
+
+                                        {
+                                            "name": "Hidden Sarcophagus B1 - Hidden Sarcophagus",
+                                            "ref": "Hidden Sarcophagus B1/Hidden Sarcophagus"
+                                        },
+                                    
                                     
                                         {
                                             "name": "Four Statues Chest 1 - Four Statues Chest 1",
@@ -843,12 +835,7 @@
                                             "name": "Patrol disappears when changing floors - Enemy Chest",
                                             "ref": "Patrol disappears when changing floors/Enemy Chest"
                                         },
-                                    
-                                        {
-                                            "name": "Hidden Sarcophagus - Hidden Sarcophagus",
-                                            "ref": "Hidden Sarcophagus/Hidden Sarcophagus"
-                                        },
-                                    
+                                                                        
                                         {
                                             "name": "B1 - Hole Chest",
                                             "ref": "B1/Hole Chest"
@@ -918,8 +905,8 @@
                                     "map_locations": [
                                         {
                                             "map": "Overworld",
-                                            "x": 1992,
-                                            "y": 253,
+                                            "x": 153,
+                                            "y": 587,
                                             "size": 12
                                         }
                                     ]
@@ -942,8 +929,8 @@
                                     "map_locations": [
                                         {
                                             "map": "Overworld",
-                                            "x": 1362,
-                                            "y": 96,
+                                            "x": 902,
+                                            "y": 48,
                                             "size": 12
                                         }
                                     ]
@@ -1061,8 +1048,8 @@
                                     "map_locations": [
                                         {
                                             "map": "Overworld",
-                                            "x": 295,
-                                            "y": 1200,
+                                            "x": 555,
+                                            "y": 228,
                                             "size": 12
                                         }
                                     ]
@@ -1110,8 +1097,8 @@
                                     "map_locations": [
                                         {
                                             "map": "Overworld",
-                                            "x": 2397,
-                                            "y": 986,
+                                            "x": 533,
+                                            "y": 630,
                                             "size": 12
                                         }
                                     ]
@@ -1134,8 +1121,8 @@
                                     "map_locations": [
                                         {
                                             "map": "Overworld",
-                                            "x": 1996,
-                                            "y": 1433,
+                                            "x": 111,
+                                            "y": 123,
                                             "size": 12
                                         }
                                     ]

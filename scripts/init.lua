@@ -2,15 +2,18 @@
             local variant = Tracker.ActiveVariantUID
 
 Tracker:AddItems("items/items.json")
+Tracker:AddItems("items/settings.json")
 Tracker:AddItems("items/labels.json")
 
 -- Items
 ScriptHost:LoadScript("scripts/items_import.lua")
 
 -- Logic
-ScriptHost:LoadScript("scripts/logic/logic_helpers.lua")
+ScriptHost:LoadScript("scripts/logic/logic_helper.lua")
 ScriptHost:LoadScript("scripts/logic/logic_main.lua")
 ScriptHost:LoadScript("scripts/logic_import.lua")
+ScriptHost:LoadScript("scripts/logic/logic_access.lua")
+
 
 -- Maps
 if Tracker.ActiveVariantUID == "maps-u" then
@@ -33,3 +36,4 @@ ScriptHost:LoadScript("scripts/locations_import.lua")
 if PopVersion and PopVersion >= "0.18.0" then
     ScriptHost:LoadScript("scripts/autotracking.lua")
 end
+

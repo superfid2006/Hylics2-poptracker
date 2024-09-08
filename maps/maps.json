@@ -177,10 +177,24 @@
             },
             
             {
-                "name": "Worm Pod",
+                "name": "Worm Pod - First Floor",
                 "location_size": 6,
                 "location_border_thickness": 1,
-                "img": "images/maps/Worm Pod.png"
+                "img": "images/maps/worm room/worm room_first floor - with entrances.png"
+            },
+
+            {
+                "name": "Worm Pod - Second Floor",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/worm room/worm room_second floor - with entrances.png"
+            },
+
+            {
+                "name": "Worm Pod - Boss Floor",
+                "location_size": 6,
+                "location_border_thickness": 1,
+                "img": "images/maps/worm room/worm room_boss floor - with entrance.png"
             },
             
             {
@@ -265,7 +279,7 @@
                 "name": "Foglast Fridge Cave",
                 "location_size": 6,
                 "location_border_thickness": 1,
-                "img": "images/maps/foglast/foglast_under lair.png"
+                "img": "images/maps/foglast/foglast_fridge cave.png"
             },
             {
                 "name": "Foglast Sage Room",

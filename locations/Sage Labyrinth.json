@@ -4,7 +4,10 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [" "],
+                        "access_rules": ["SKULLBOMB,start_location_waynehouse",
+                                         "SKULLBOMB,start_location_viewax_edifice,PNEUMATOPHORE",
+                                         "SKULLBOMB,DOCKKEY"
+                                        ],
                         
                         "children": [
                     
@@ -35,15 +38,27 @@
                             ],
                             "map_locations": [
                                 {
-                                    "map": "Overworld",
-                                    "x": 710,
-                                    "y": 148,
+                                    "map": "Sage Labyrinth 1F-1",
+                                    "x": 146,
+                                    "y": 307,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Sage Labyrinth 1F-2",
+                                    "x": 146,
+                                    "y": 307,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Sage Labyrinth 1F-3",
+                                    "x": 146,
+                                    "y": 307,
                                     "size": 12
                                 }
                             ]
                             },
                     {
-                        "name": "Hidden Sarcophagus",
+                        "name": "Hidden Sarcophagus 1F",
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
@@ -60,9 +75,21 @@
                             ],
                             "map_locations": [
                                 {
-                                    "map": "Overworld",
-                                    "x": 1778,
-                                    "y": 193,
+                                    "map": "Sage Labyrinth 1F-1",
+                                    "x": 901,
+                                    "y": 75,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Sage Labyrinth 1F-2",
+                                    "x": 901,
+                                    "y": 75,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Sage Labyrinth 1F-3",
+                                    "x": 901,
+                                    "y": 75,
                                     "size": 12
                                 }
                             ]
@@ -94,9 +121,9 @@
                             ],
                             "map_locations": [
                                 {
-                                    "map": "Overworld",
-                                    "x": 2283,
-                                    "y": 531,
+                                    "map": "Sage Labyrinth 1F-3",
+                                    "x": 670,
+                                    "y": 219,
                                     "size": 12
                                 }
                             ]
@@ -119,9 +146,9 @@
                             ],
                             "map_locations": [
                                 {
-                                    "map": "Overworld",
-                                    "x": 1037,
-                                    "y": 1218,
+                                    "map": "Sage Labyrinth 1F-3",
+                                    "x": 669,
+                                    "y": 102,
                                     "size": 12
                                 }
                             ]
@@ -162,9 +189,9 @@
                             ],
                             "map_locations": [
                                 {
-                                    "map": "Overworld",
-                                    "x": 65,
-                                    "y": 119,
+                                    "map": "Sage Labyrinth B1",
+                                    "x": 712,
+                                    "y": 405,
                                     "size": 12
                                 }
                             ]
@@ -187,9 +214,9 @@
                             ],
                             "map_locations": [
                                 {
-                                    "map": "Overworld",
-                                    "x": 1370,
-                                    "y": 219,
+                                    "map": "Sage Labyrinth B1",
+                                    "x": 538,
+                                    "y": 507,
                                     "size": 12
                                 }
                             ]
@@ -212,15 +239,15 @@
                             ],
                             "map_locations": [
                                 {
-                                    "map": "Overworld",
-                                    "x": 1867,
-                                    "y": 1080,
+                                    "map": "Sage Labyrinth B1",
+                                    "x": 250,
+                                    "y": 99,
                                     "size": 12
                                 }
                             ]
                             },
                     {
-                        "name": "Hidden Sarcophagus",
+                        "name": "Hidden Sarcophagus B1",
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
@@ -237,9 +264,9 @@
                             ],
                             "map_locations": [
                                 {
-                                    "map": "Overworld",
-                                    "x": 138,
-                                    "y": 259,
+                                    "map": "Sage Labyrinth B1",
+                                    "x": 741,
+                                    "y": 103,
                                     "size": 12
                                 }
                             ]
@@ -256,9 +283,9 @@
                             ],
                             "map_locations": [
                                 {
-                                    "map": "Overworld",
-                                    "x": 2338,
-                                    "y": 1004,
+                                    "map": "Sage Labyrinth B1",
+                                    "x": 133,
+                                    "y": 361,
                                     "size": 12
                                 }
                             ]
@@ -290,9 +317,9 @@
                             ],
                             "map_locations": [
                                 {
-                                    "map": "Overworld",
-                                    "x": 2049,
-                                    "y": 986,
+                                    "map": "Sage Labyrinth B2",
+                                    "x": 128,
+                                    "y": 291,
                                     "size": 12
                                 }
                             ]
@@ -315,9 +342,9 @@
                             ],
                             "map_locations": [
                                 {
-                                    "map": "Overworld",
-                                    "x": 1978,
-                                    "y": 728,
+                                    "map": "Sage Labyrinth B2",
+                                    "x": 389,
+                                    "y": 199,
                                     "size": 12
                                 }
                             ]
@@ -342,9 +369,9 @@
                             ],
                             "map_locations": [
                                 {
-                                    "map": "Overworld",
-                                    "x": 530,
-                                    "y": 1372,
+                                    "map": "Sage Labyrinth 2F",
+                                    "x": 714,
+                                    "y": 233,
                                     "size": 12
                                 }
                             ]
@@ -376,9 +403,9 @@
                             ],
                             "map_locations": [
                                 {
-                                    "map": "Overworld",
-                                    "x": 1558,
-                                    "y": 1266,
+                                    "map": "Sage Labyrinth B3",
+                                    "x": 117,
+                                    "y": 170,
                                     "size": 12
                                 }
                             ]
@@ -401,9 +428,9 @@
                             ],
                             "map_locations": [
                                 {
-                                    "map": "Overworld",
-                                    "x": 858,
-                                    "y": 799,
+                                    "map": "Sage Labyrinth B3",
+                                    "x": 120,
+                                    "y": 115,
                                     "size": 12
                                 }
                             ]
@@ -415,7 +442,7 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [" "],
+                        "access_rules": ["$motor_hunter"],
                         
 
                                         "sections": [
@@ -428,9 +455,9 @@
                             ],
                             "map_locations": [
                                 {
-                                    "map": "Overworld",
-                                    "x": 716,
-                                    "y": 1441,
+                                    "map": "Sage Labyrinth B4",
+                                    "x": 152,
+                                    "y": 117,
                                     "size": 12
                                 }
                             ]
@@ -440,7 +467,7 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [" "],
+                        "access_rules": ["DEEPKEY"],
                         
                         "children": [
                     
@@ -467,9 +494,9 @@
                             ],
                             "map_locations": [
                                 {
-                                    "map": "Overworld",
-                                    "x": 219,
-                                    "y": 1120,
+                                    "map": "Sage Labyrinth Sage Beach",
+                                    "x": 676,
+                                    "y": 794,
                                     "size": 12
                                 }
                             ]
@@ -507,9 +534,9 @@
                             ],
                             "map_locations": [
                                 {
-                                    "map": "Overworld",
-                                    "x": 1027,
-                                    "y": 1336,
+                                    "map": "Sage Labyrinth Sage Beach",
+                                    "x": 706,
+                                    "y": 794,
                                     "size": 12
                                 }
                             ]

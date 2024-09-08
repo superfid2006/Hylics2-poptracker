@@ -278,20 +278,10 @@
                         "type": "tabbed",
                         "tabs": [
                           {
-                            "title": "Outside",
                             "content": {
                             "type": "map",
                             "maps": [
                             "TV Island"
-                            ]
-                            }
-                          },
-                          {
-                            "title": "Inside",
-                            "content": {
-                            "type": "map",
-                            "maps": [
-                            "TV Island Inside"
                             ]
                             }
                           }
@@ -309,6 +299,41 @@
                 
                 },
                 {
+                  "title": "Worm Pod",
+                  "content": {
+                      "type": "tabbed",
+                      "tabs": [
+                        {
+                          "title": "First Floor",
+                          "content": {
+                          "type": "map",
+                          "maps": [
+                          "Worm Pod - First Floor"
+                          ]
+                          }
+                        },
+                        {
+                          "title": "Second Floor",
+                          "content": {
+                          "type": "map",
+                          "maps": [
+                          "Worm Pod - Second Floor"
+                          ]
+                          }
+                        },
+                        {
+                          "title": "Boss Floor",
+                          "content": {
+                          "type": "map",
+                          "maps": [
+                          "Worm Pod - Boss Floor"
+                          ]
+                          }
+                        }
+                  ]
+                  }
+              },
+                {
                     "title": "Foglast",
                     "content": {
                         "type": "tabbed",
@@ -323,56 +348,11 @@
                             }
                           },
                           {
-                            "title": "Entrance Mountain",
-                            "content": {
-                            "type": "map",
-                            "maps": [
-                            "Foglast Entrance Mountain"
-                            ]
-                            }
-                          },
-                          {
-                            "title": "Curved Path",
-                            "content": {
-                            "type": "map",
-                            "maps": [
-                            "Foglast Curved Path"
-                            ]
-                            }
-                          },
-                          {
-                            "title": "TV Mountain",
-                            "content": {
-                            "type": "map",
-                            "maps": [
-                            "Foglast TV Mountain"
-                            ]
-                            }
-                          },
-                          {
-                            "title": "Bridge Mountain",
-                            "content": {
-                            "type": "map",
-                            "maps": [
-                            "Foglast Bridge Mountain"
-                            ]
-                            }
-                          },
-                          {
                             "title": "Lair",
                             "content": {
                             "type": "map",
                             "maps": [
                             "Foglast Lair"
-                            ]
-                            }
-                          },
-                          {
-                            "title": "Far Back",
-                            "content": {
-                            "type": "map",
-                            "maps": [
-                            "Foglast Far Back"
                             ]
                             }
                           },
@@ -400,15 +380,6 @@
                             "type": "map",
                             "maps": [
                             "Foglast Inside Bridge Mountain - Shield Room"
-                            ]
-                            }
-                          },
-                          {
-                            "title": "Bridge Mountain - Shop Near Bridge",
-                            "content": {
-                            "type": "map",
-                            "maps": [
-                            "Foglast Inside Bridge Mountain - Shop Near Bridge"
                             ]
                             }
                           },
@@ -515,15 +486,6 @@
                             "type": "map",
                             "maps": [
                             "Drill Castle"
-                            ]
-                            }
-                          },
-                          {
-                            "title": "Inside",
-                            "content": {
-                            "type": "map",
-                            "maps": [
-                            "Drill Castle Inside"
                             ]
                             }
                           },
@@ -694,38 +656,11 @@
                             }
                           },
                           {
-                            "title": "Outside Entrance",
-                            "content": {
-                            "type": "map",
-                            "maps": [
-                            "Hylemxylem Outside Entrance"
-                            ]
-                            }
-                          },
-                          {
                             "title": "Inside Entrance",
                             "content": {
                             "type": "map",
                             "maps": [
                             "Hylemxylem Inside Entrance"
-                            ]
-                            }
-                          },
-                          {
-                            "title": "Outside Upper Floor",
-                            "content": {
-                            "type": "map",
-                            "maps": [
-                            "Hylemxylem Outside Upper Floor"
-                            ]
-                            }
-                          },
-                          {
-                            "title": "Side Path",
-                            "content": {
-                            "type": "map",
-                            "maps": [
-                            "Hylemxylem Side Path"
                             ]
                             }
                           },

@@ -1,0 +1,33 @@
+{
+  "settings_tab": {
+    "type": "array",
+    "orientation": "horizontal",
+    "content": [
+      {
+        "type": "item",
+        "max_width": "64",
+        "item": "shuffle_party_members"
+      },
+      {
+        "type": "item",
+        "max_width": "64",
+        "item": "shuffle_gestures"
+      },
+      {
+        "type": "item",
+        "max_width": "64",
+        "item": "shuffle_red_medallions"
+      },
+      {
+        "type": "item",
+        "max_width": "128",
+        "item": "start_location"
+      },
+      {
+        "type": "item",
+        "max_width": "64",
+        "item": "extra_items_in_logic"
+      }
+    ]
+  }
+}

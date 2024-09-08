@@ -4,7 +4,7 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [" "],
+                        "access_rules": ["$enter_hylemxylem"],
                         
                         "children": [
                     
@@ -41,12 +41,6 @@
                                     "size": 12
                                 },
                                 {
-                                    "map": "Hylemxylem Outside Entrance",
-                                    "x": 56,
-                                    "y": 942,
-                                    "size": 12
-                                },
-                                {
                                     "map": "Hylemxylem Inside Entrance",
                                     "x": 713,
                                     "y": 646,
@@ -59,6 +53,7 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
+                        "visibility_rules":["shuffle_red_medallions"],
                         "access_rules": [" "],
                         
 
@@ -73,12 +68,6 @@
                             "map_locations": [
                                 {
                                     "map": "Hylemxylem",
-                                    "x": 86,
-                                    "y": 942,
-                                    "size": 12
-                                },
-                                {
-                                    "map": "Hylemxylem Outside Entrance",
                                     "x": 86,
                                     "y": 942,
                                     "size": 12
@@ -104,12 +93,6 @@
                             "map_locations": [
                                 {
                                     "map": "Hylemxylem",
-                                    "x": 116,
-                                    "y": 942,
-                                    "size": 12
-                                },
-                                {
-                                    "map": "Hylemxylem Outside Entrance",
                                     "x": 116,
                                     "y": 942,
                                     "size": 12
@@ -143,12 +126,6 @@
                                     "map": "Hylemxylem",
                                     "x": 149,
                                     "y": 907,
-                                    "size": 12
-                                },
-                                {
-                                    "map": "Hylemxylem Outside Entrance",
-                                    "x": 539,
-                                    "y": 278,
                                     "size": 12
                                 }
                             ]
@@ -190,18 +167,6 @@
                                     "x": 637,
                                     "y": 614,
                                     "size": 12
-                                },
-                                {
-                                    "map": "Hylemxylem Side Path",
-                                    "x": 711,
-                                    "y": 280,
-                                    "size": 12
-                                },
-                                {
-                                    "map": "Hylemxylem Outside Upper Floor",
-                                    "x": 956,
-                                    "y": 872,
-                                    "size": 12
                                 }
                             ]
                             },
@@ -227,6 +192,12 @@
                                     "x": 353,
                                     "y": 44,
                                     "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem",
+                                    "x": 637,
+                                    "y": 644,
+                                    "size": 12
                                 }
                             ]
                             },
@@ -235,6 +206,7 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
+                        "visibility_rules":["shuffle_red_medallions"],
                         "access_rules": [" "],
                         
 
@@ -258,18 +230,6 @@
                                     "x": 667,
                                     "y": 614,
                                     "size": 12
-                                },
-                                {
-                                    "map": "Hylemxylem Side Path",
-                                    "x": 741,
-                                    "y": 280,
-                                    "size": 12
-                                },
-                                {
-                                    "map": "Hylemxylem Outside Upper Floor",
-                                    "x": 986,
-                                    "y": 872,
-                                    "size": 12
                                 }
                             ]
                             }
@@ -280,7 +240,7 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [" "],
+                        "access_rules": ["UPPERCHAMBERKEY"],
                         
                         "children": [
                     
@@ -289,6 +249,7 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
+                        "visibility_rules":["shuffle_red_medallions"],
                         "access_rules": [" "],
                         
 
@@ -312,12 +273,6 @@
                                     "x": 229,
                                     "y": 473,
                                     "size": 12
-                                },
-                                {
-                                    "map": "Hylemxylem Outside Upper Floor",
-                                    "x": 265,
-                                    "y": 315,
-                                    "size": 12
                                 }
                             ]
                             }
@@ -327,6 +282,7 @@
                                     
                             {
                                 "name": "Upper Chamber Banana",
+                                "access_rules": [" "],
                                 "item_count": 1
                             }
                         
@@ -337,6 +293,12 @@
                                     "x": 843,
                                     "y": 158,
                                     "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem",
+                                    "x": 259,
+                                    "y": 473,
+                                    "size": 12
                                 }
                             ]
                             },
@@ -345,7 +307,7 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [" "],
+                        "access_rules": ["UPPERCHAMBERKEY"],
                         
                         "children": [
                     
@@ -373,9 +335,9 @@
                                     "size": 12
                                 },
                                 {
-                                    "map": "Hylemxylem Outside Upper Floor",
-                                    "x": 226,
-                                    "y": 312,
+                                    "map": "Hylemxylem",
+                                    "x": 95,
+                                    "y": 268,
                                     "size": 12
                                 }
                             ]
@@ -412,6 +374,12 @@
                                     "x": 832,
                                     "y": 525,
                                     "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem",
+                                    "x": 125,
+                                    "y": 268,
+                                    "size": 12
                                 }
                             ]
                             }
@@ -422,7 +390,7 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [" "],
+                        "access_rules": ["UPPERCHAMBERKEY"],
                         
                         "children": [
                     
@@ -447,6 +415,12 @@
                                     "map": "Hylemxylem Inside Entrance",
                                     "x": 414,
                                     "y": 481,
+                                    "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem",
+                                    "x": 56,
+                                    "y": 972,
                                     "size": 12
                                 }
                             ]
@@ -473,6 +447,12 @@
                                     "x": 422,
                                     "y": 549,
                                     "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem",
+                                    "x": 86,
+                                    "y": 972,
+                                    "size": 12
                                 }
                             ]
                             },
@@ -498,6 +478,12 @@
                                     "x": 535,
                                     "y": 785,
                                     "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem",
+                                    "x": 116,
+                                    "y": 972,
+                                    "size": 12
                                 }
                             ]
                             }
@@ -508,7 +494,7 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [" "],
+                        "access_rules": ["UPPERCHAMBERKEY"],
                         
 
                                         "sections": [
@@ -535,6 +521,12 @@
                                     "x": 754,
                                     "y": 71,
                                     "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem",
+                                    "x": 146,
+                                    "y": 972,
+                                    "size": 12
                                 }
                             ]
                             },
@@ -543,7 +535,7 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [" "],
+                        "access_rules": ["UPPERCHAMBERKEY"],
                         
                         "children": [
                     
@@ -569,6 +561,12 @@
                                     "x": 273,
                                     "y": 207,
                                     "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem",
+                                    "x": 56,
+                                    "y": 1002,
+                                    "size": 12
                                 }
                             ]
                             },
@@ -577,6 +575,7 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
+                        "visibility_rules":["shuffle_red_medallions"],
                         "access_rules": [" "],
                         
 
@@ -594,17 +593,22 @@
                                     "x": 588,
                                     "y": 212,
                                     "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem",
+                                    "x": 86,
+                                    "y": 1002,
+                                    "size": 12
                                 }
                             ]
                             }
                                 ]},
-                                
                     {
                         "name": "Below Upper Reservoir",
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [" "],
+                        "access_rules": ["UPPERCHAMBERKEY"],
                         
 
                                         "sections": [
@@ -627,9 +631,40 @@
                                     "x": 372,
                                     "y": 638,
                                     "size": 12
+                                },
+                                {
+                                    "map": "Hylemxylem",
+                                    "x": 95,
+                                    "y": 298,
+                                    "size": 12
                                 }
                             ]
-                            }
+                            },
+                    {
+                                "name": "Defeat Gibby",
+                                "chest_unopened_img": "/images/Items/close.png",
+                                "chest_opened_img": "/images/Items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": ["UPPERCHAMBERKEY,VESSELROOMKEY"],
+                                
+        
+                                                "sections": [
+                                            
+                                    {
+                                        "name": "GIBBYYYYYYYY!",
+                                        "item_count": 1
+                                    }
+                                
+                                    ],
+                                    "map_locations": [
+                                        {
+                                            "map": "Hylemxylem",
+                                            "x": 206,
+                                            "y": 140,
+                                            "size": 12
+                                        }
+                                    ]
+                                    }
                                 ]}
                                 
                             ]

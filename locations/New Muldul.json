@@ -4,7 +4,10 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [" "],
+                        "access_rules": ["start_location_waynehouse",
+                                        "start_location_viewax_edifice,PNEUMATOPHORE",
+                                        "DOCKKEY"
+                                        ],
                         
                         "children": [
                     
@@ -99,7 +102,7 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [" "],
+                        "access_rules": ["PNEUMATOPHORE"],
                         
 
                                         "sections": [
@@ -184,7 +187,7 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [" "],
+                        "access_rules": ["PNEUMATOPHORE"],
                         
 
                                         "sections": [
@@ -255,7 +258,7 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [" "],
+                        "access_rules": ["UPPERHOUSEKEY"],
                         
 
                                         "sections": [
@@ -292,6 +295,8 @@
                                     
                             {
                                 "name": "Upper House Medallion",
+                                "visibility_rules":["shuffle_red_medallions"],
+                                "access_rules":["UPPERHOUSEKEY"],
                                 "item_count": 1
                             }
                         
@@ -337,6 +342,7 @@
                         
                             {
                                 "name": "Pongorma Joins",
+                                "visibility_rules":["shuffle_party_members"],
                                 "item_count": 1
                             }
                         
@@ -362,11 +368,17 @@
                                     
                             {
                                 "name": "Rescued Blerol 1",
+                                "access_rules":[
+                                    "$rescued_blerol"
+                                ],
                                 "item_count": 1
                             },
                         
                             {
                                 "name": "Rescued Blerol 2",
+                                "access_rules":[
+                                    "$rescued_blerol"
+                                ],
                                 "item_count": 1
                             }
                         
@@ -391,7 +403,7 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [" "],
+                        "access_rules": ["$enter_hylemxylem"],
                         
                         "children": [
                     
@@ -450,6 +462,7 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
+                        "visibility_rules":["shuffle_red_medallions"],
                         "access_rules": [" "],
                         
 
@@ -475,6 +488,7 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
+                        "visibility_rules":["shuffle_red_medallions"],
                         "access_rules": [" "],
                         
 
@@ -500,6 +514,7 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
+                        "visibility_rules":["shuffle_red_medallions"],
                         "access_rules": [" "],
                         
 
@@ -525,6 +540,7 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
+                        "visibility_rules":["shuffle_red_medallions"],
                         "access_rules": [" "],
                         
 
@@ -550,6 +566,7 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
+                        "visibility_rules":["shuffle_red_medallions"],
                         "access_rules": [" "],
                         
 
@@ -600,7 +617,7 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": [" "],
+                        "access_rules": ["HOUSEKEY"],
                         
 
                                         "sections": [

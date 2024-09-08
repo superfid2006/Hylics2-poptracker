@@ -1,0 +1,59 @@
+[
+                    {
+                        "name": "shuffle_party_members",
+                        "type": "toggle",
+                        "img": "/images/Settings/shuffle_party_members.png",
+                        "codes": "shuffle_party_members"
+                    },
+                    {
+                        "name": "shuffle_gestures",
+                        "type": "toggle",
+                        "img": "/images/Settings/shuffle_gestures.png",
+                        "codes": "shuffle_gestures"
+                    },
+                    {
+                        "name": "shuffle_red_medallions",
+                        "type": "toggle",
+                        "img": "/images/Settings/shuffle_red_medallions.png",
+                        "codes": "shuffle_red_medallions"
+                    },
+                    {
+                        "name": "start_location",
+                        "type": "progressive",
+                        "allow_disabled": false,
+                        "loop": true,
+                        "stages": [
+                        {
+                            "name": "start_location_waynehouse",
+                            "img": "/images/Settings/start_waynehouse.png",
+                            "inherit_codes": false,
+                            "codes": "start_location_waynehouse"
+                        },
+                        {
+                            "name": "start_location_viewax_edifice",
+                            "img": "/images/Settings/start_viewax.png",
+                            "inherit_codes": false,
+                            "codes": "start_location_viewax_edifice"
+                        },
+                        {
+                            "name": "start_location_tv_island",
+                            "img": "/images/Settings/start_tv island.png",
+                            "inherit_codes": false,
+                            "codes": "start_location_tv_island"
+                        },
+                        {
+                            "name": "start_location_shield_facility",
+                            "img": "/images/Settings/start_shield facility.png",
+                            "inherit_codes": false,
+                            "codes": "start_location_shield_facility"
+                        }
+                        ],
+                        "codes": "start_location"
+                    },
+                    {
+                        "name": "extra_items_in_logic",
+                        "type": "toggle",
+                        "img": "/images/Settings/extra_items_in_logic.png",
+                        "codes": "extra_items_in_logic"
+                    }
+        ]
