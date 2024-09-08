@@ -1,0 +1,10 @@
+{
+	"versions": [
+		{
+			"package_version": "0.0.1",
+			"download_url": "https://github.com/superfid2006/Hylics2-poptracker/archive/refs/tags/v0.0.1.zip",
+			"sha256": "bde3e99d9c99c52148bac89e7320b7f62d45f020da9911db606015657749ade0",
+			"changelog": ["Initial Test Release"]
+		}
+	]
+}
