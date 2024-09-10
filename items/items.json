@@ -162,7 +162,7 @@
                     {
                         "name": "PAPERCUP",
                         "type": "consumable",
-                        "allow_disabled": false,
+                        "allow_disabled": true,
                         "min_quantity": 0,
                         "max_quantity": 3,
                         "increment": 1,
@@ -323,7 +323,7 @@
                     {
                         "name": "SAGETOKEN",
                         "type": "consumable",
-                        "allow_disabled": false,
+                        "allow_disabled": true,
                         "min_quantity": 0,
                         "max_quantity": 3,
                         "increment": 1,

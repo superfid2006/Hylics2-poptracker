@@ -1,32 +1,35 @@
 {
   "settings_tab": {
     "type": "array",
-    "orientation": "horizontal",
+    "orientation": "vertical",
+    "item_margin": "2, 2",
+    "h_alignment": "center",
+    "item_h_alignment": "center",
+    "item_v_alignment": "center",
     "content": [
       {
         "type": "item",
-        "max_width": "64",
-        "item": "shuffle_party_members"
-      },
-      {
-        "type": "item",
-        "max_width": "64",
-        "item": "shuffle_gestures"
-      },
-      {
-        "type": "item",
-        "max_width": "64",
-        "item": "shuffle_red_medallions"
-      },
-      {
-        "type": "item",
-        "max_width": "128",
+        "max_width": "192",
         "item": "start_location"
       },
       {
-        "type": "item",
-        "max_width": "64",
-        "item": "extra_items_in_logic"
+        "type": "itemgrid",
+        "item_margin": "2, 2",
+        "h_alignment": "center",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "item_height": 96,
+        "item_width": 96,
+        "rows": [
+                          [
+                          "shuffle_party_members",
+                          "shuffle_gestures"
+                          ],
+                          [
+                          "shuffle_red_medallions",
+                          "extra_items_in_logic"
+                          ]
+        ]
       }
     ]
   }

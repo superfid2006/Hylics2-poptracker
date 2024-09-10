@@ -8,8 +8,8 @@
           "type": "itemgrid",
           "item_margin": "2, 2",
           "h_alignment": "center",
-          "item_h_alignment": "stretch",
-          "item_v_alignment": "stretch",
+          "item_h_alignment": "center",
+          "item_v_alignment": "center",
           "item_height": 36,
           "item_width": 72,
           "rows": [
@@ -42,8 +42,8 @@
           "type": "itemgrid",
           "item_margin": "2, 2",
           "h_alignment": "center",
-          "item_h_alignment": "stretch",
-          "item_v_alignment": "stretch",
+          "item_h_alignment": "center",
+          "item_v_alignment": "center",
           "item_height": 36,
           "item_width": 72,
           "rows": [
@@ -74,8 +74,8 @@
           "type": "itemgrid",
           "item_margin": "2, 2",
           "h_alignment": "center",
-          "item_h_alignment": "stretch",
-          "item_v_alignment": "stretch",
+          "item_h_alignment": "center",
+          "item_v_alignment": "center",
           "item_height": 36,
           "item_width": 72,
           "rows": [
@@ -107,14 +107,11 @@
           "type": "itemgrid",
           "item_margin": "2, 2",
           "h_alignment": "center",
-          "item_h_alignment": "stretch",
-          "item_v_alignment": "stretch",
-          "item_height": 36,
+          "item_h_alignment": "center",
+          "item_v_alignment": "center",
+          "item_height": 72,
           "item_width": 72,
           "rows": [
-                            [
-                              
-                            ],
                             [
                             "Pongorma",
                             "Dedusmuln",
@@ -138,18 +135,18 @@
               "type": "itemgrid",
               "item_margin": "2, 2",
               "h_alignment": "center",
-              "item_h_alignment": "stretch",
-              "item_v_alignment": "stretch",
+              "item_h_alignment": "center",
+              "item_v_alignment": "center",
               "item_height": 36,
               "item_width": 72,
               "rows": [
                             [
                             "CAVEKEY",
                             "HOUSEKEY",
-                            "UPPERHOUSEKEY",
-                            "JAILKEY"
+                            "UPPERHOUSEKEY"
                             ]
                             ,[
+                            "JAILKEY",
                             "TOWERKEY",
                             "WORMROOMKEY",
                             "BRIDGEKEY"
@@ -179,8 +176,8 @@
               "type": "itemgrid",
               "item_margin": "2, 2",
               "h_alignment": "center",
-              "item_h_alignment": "stretch",
-              "item_v_alignment": "stretch",
+              "item_h_alignment": "center",
+              "item_v_alignment": "center",
               "item_height": 36,
               "item_width": 72,
               "rows": [
@@ -218,8 +215,8 @@
               "type": "itemgrid",
               "item_margin": "2, 2",
               "h_alignment": "center",
-              "item_h_alignment": "stretch",
-              "item_v_alignment": "stretch",
+              "item_h_alignment": "center",
+              "item_v_alignment": "center",
               "item_height": 36,
               "item_width": 72,
               "rows": [
@@ -257,10 +254,10 @@
             {
               "type": "itemgrid",
               "item_margin": "2, 2",
-              "h_alignment": "left",
-              "item_h_alignment": "stretch",
-              "item_v_alignment": "stretch",
-              "item_height": 36,
+              "h_alignment": "center",
+              "item_h_alignment": "center",
+              "item_v_alignment": "center",
+              "item_height": 72,
               "item_width": 72,
               "rows": [
                             [
