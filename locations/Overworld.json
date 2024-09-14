@@ -216,8 +216,8 @@
                                     "map_locations": [
                                         {
                                             "map": "Overworld",
-                                            "x": 1384,
-                                            "y": 260,
+                                            "x": 1056,
+                                            "y": 620,
                                             "size": 12
                                         }
                                     ]
@@ -922,7 +922,7 @@
                                     
                                         {
                                             "name": "Inside - TV",
-                                            "ref": "Inside/TV"
+                                            "ref": "TV Island/Inside/TV"
                                         }
                                     
                                     ],

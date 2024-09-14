@@ -4,7 +4,10 @@
                         "chest_unopened_img": "/images/Items/close.png",
                         "chest_opened_img": "/images/Items/open.png",
                         "overlay_background": "#000000",
-                        "access_rules": ["$enter_wormpod"],
+                        "access_rules": [
+                            "start_location_shield_facility, WORMROOMKEY,[$enter_wormpod]",
+                            "DOCKKEY, WORMROOMKEY,[$enter_wormpod]"
+                    ],
                         
 
                                         "sections": [
