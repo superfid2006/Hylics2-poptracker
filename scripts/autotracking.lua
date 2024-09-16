@@ -3,6 +3,9 @@
 AUTOTRACKER_ENABLE_DEBUG_LOGGING = true and ENABLE_DEBUG_LOG
 AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP = true and AUTOTRACKER_ENABLE_DEBUG_LOGGING
 AUTOTRACKER_ENABLE_DEBUG_LOGGING_SNES = true and AUTOTRACKER_ENABLE_DEBUG_LOGGING
+
+ScriptHost:LoadScript("scripts/autotracking/settings.lua")
+
 -------------------------------------------------------
 print("")
 print("Active Auto-Tracker Configuration")
@@ -16,8 +19,6 @@ if AUTOTRACKER_ENABLE_DEBUG_LOGGING then
 end
 print("---------------------------------------------------------------------")
 print("")
-
-ScriptHost:LoadScript("scripts/autotracking/settings.lua")
 -- loads the AP autotracking code
 ScriptHost:LoadScript("scripts/autotracking/archipelago.lua")
     
