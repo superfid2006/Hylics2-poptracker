@@ -307,7 +307,7 @@
                                     
                                         {
                                             "name": "TV - TV",
-                                            "ref": "TV/TV"
+                                            "ref": "Foglast/TV/TV"
                                         },
                                     
                                         {
@@ -347,12 +347,12 @@
                                     
                                         {
                                             "name": "Talk to Sage - Sage Item 1",
-                                            "ref": "Talk to Sage/Sage Item 1"
+                                            "ref": "Foglast/Sage Room/Talk to Sage/Sage Item 1"
                                         },
                                     
                                         {
                                             "name": "Talk to Sage - Sage Item 2",
-                                            "ref": "Talk to Sage/Sage Item 2"
+                                            "ref": "Foglast/Sage Room/Talk to Sage/Sage Item 2"
                                         },
                                     
                                         {
@@ -873,12 +873,12 @@
                                     
                                         {
                                             "name": "Talk to Sage - Sage Item 1",
-                                            "ref": "Talk to Sage/Sage Item 1"
+                                            "ref": "Sage Labyrinth/Sage Room/Talk to Sage/Sage Item 1"
                                         },
                                     
                                         {
                                             "name": "Talk to Sage - Sage Item 2",
-                                            "ref": "Talk to Sage/Sage Item 2"
+                                            "ref": "Sage Labyrinth/Sage Room/Talk to Sage/Sage Item 2"
                                         },
                                     
                                         {
@@ -1001,12 +1001,12 @@
                                     
                                         {
                                             "name": "Talk to Sage - Sage Item 1",
-                                            "ref": "Talk to Sage/Sage Item 1"
+                                            "ref": "Viewax's Edifice/Sage Room/Talk to Sage/Sage Item 1"
                                         },
                                     
                                         {
                                             "name": "Talk to Sage - Sage Item 2",
-                                            "ref": "Talk to Sage/Sage Item 2"
+                                            "ref": "Viewax's Edifice/Sage Room/Talk to Sage/Sage Item 2"
                                         },
                                     
                                         {
@@ -1065,7 +1065,7 @@
                                     
                                         {
                                             "name": "TV - TV",
-                                            "ref": "TV/TV"
+                                            "ref": "Waynehouse/Inside/TV/TV"
                                         },
                                     
                                         {
