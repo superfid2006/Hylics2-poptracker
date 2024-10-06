@@ -1,6 +1,12 @@
 {
 	"versions": [
 		{
+			"package_version": "0.0.5",
+			"download_url": "https://github.com/superfid2006/Hylics2-poptracker/archive/refs/tags/v0.0.5.zip",
+			"sha256": "4af9a38b4f71552f935ac6f858b21d4db406d1661e865e1891a39d436a271ae6",
+			"changelog": ["Overworld reference fixes, Underground box placement adjusted"]
+		},
+		{
 			"package_version": "0.0.4",
 			"download_url": "https://github.com/superfid2006/Hylics2-poptracker/archive/refs/tags/v0.0.4.zip",
 			"sha256": "3f317a82b854da23e0764a52ad3bba9c070df431957f41918a1d16e5445cea2c",
