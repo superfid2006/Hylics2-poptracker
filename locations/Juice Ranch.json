@@ -106,8 +106,7 @@
                                     
                             {
                                 "name": "Battle with Somsnosa",
-                                "access_rules":["$party_2, shuffle_party_members",
-                                                "start_location_shield_facility, DOCKKEY"],
+                                "access_rules": ["$juice_ranch_battle"],
                                 "item_count": 1
                             },
                         

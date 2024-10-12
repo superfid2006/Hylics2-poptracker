@@ -110,6 +110,7 @@ end
 function juice_ranch_battle()
     if has("shuffle_party_members")
          then return party_2()
-    else return true
+    elseif has("DOCKKEY")
+         then return true
     end
 end
