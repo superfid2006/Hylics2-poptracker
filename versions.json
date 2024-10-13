@@ -1,6 +1,12 @@
 {
 	"versions": [
 		{
+			"package_version": "0.0.6",
+			"download_url": "https://github.com/superfid2006/Hylics2-poptracker/archive/refs/tags/v0.0.5.zip",
+			"sha256": "c23681d1e629359058fe7a827760963911b27d68a577bb60428500060e66edc0",
+			"changelog": ["Fixed Juice Ranch logic"]
+		},
+		{
 			"package_version": "0.0.5",
 			"download_url": "https://github.com/superfid2006/Hylics2-poptracker/archive/refs/tags/v0.0.5.zip",
 			"sha256": "3d75197c6d76e8f1f91cd6cd1c7cdc690075a1322607c26a1895b32ea6ccf788",
