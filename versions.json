@@ -1,6 +1,12 @@
 {
 	"versions": [
 		{
+			"package_version": "0.0.7",
+			"download_url": "https://github.com/superfid2006/Hylics2-poptracker/archive/refs/tags/v0.0.7.zip",
+			"sha256": "81f8d2676b032d83002056d130f7cffc6881a725871a5a8b13e244fd1c59f50d",
+			"changelog": ["Fixed Overworld refs"]
+		},
+		{
 			"package_version": "0.0.6",
 			"download_url": "https://github.com/superfid2006/Hylics2-poptracker/archive/refs/tags/v0.0.6.zip",
 			"sha256": "c23681d1e629359058fe7a827760963911b27d68a577bb60428500060e66edc0",
