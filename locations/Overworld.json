@@ -174,12 +174,12 @@
                                     
                                         {
                                             "name": "Double Banana 1 - Double Banana 1",
-                                            "ref": "Double Banana 1/Double Banana 1"
+                                            "ref": "Double Bananas/Double Banana 1"
                                         },
                                     
                                         {
                                             "name": "Double Banana 2 - Double Banana 2",
-                                            "ref": "Double Banana 2/Double Banana 2"
+                                            "ref": "Double Bananas/Double Banana 2"
                                         },
                                     
                                         {
@@ -1016,7 +1016,7 @@
                                     
                                         {
                                             "name": "Sage Room - Sage Fridge",
-                                            "ref": "Sage Room/Sage Fridge"
+                                            "ref": "Viewax's Edifice/Sage Room/Sage Fridge"
                                         },
                                     
                                         {
@@ -1070,22 +1070,22 @@
                                     
                                         {
                                             "name": "Inside - Toilet",
-                                            "ref": "Inside/Toilet"
+                                            "ref": "Waynehouse/Inside/Toilet"
                                         },
                                     
                                         {
                                             "name": "Basement - Basement Pot 1",
-                                            "ref": "Basement/Basement Pot 1"
+                                            "ref": "Waynehouse/Basement/Basement Pot 1"
                                         },
                                     
                                         {
                                             "name": "Basement - Basement Pot 2",
-                                            "ref": "Basement/Basement Pot 2"
+                                            "ref": "Waynehouse/Basement/Basement Pot 2"
                                         },
                                     
                                         {
                                             "name": "Basement - Basement Pot 3",
-                                            "ref": "Basement/Basement Pot 3"
+                                            "ref": "Waynehouse/Basement/Basement Pot 3"
                                         },
                                     
                                         {
